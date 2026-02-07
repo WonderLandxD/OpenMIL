@@ -1,0 +1,7 @@
+panda_karolinska_datasets.json
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
