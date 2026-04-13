@@ -1,0 +1,2528 @@
+{
+    "train": [
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/5a84eae1-197e-4463-ad65-59becc_D1_D1.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/93e30fd5-e57e-4503-a175-863c7d_D1_D1.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/9f905736-f662-41d6-b3ac-16758d_D1_D1.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00080-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00083-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00094-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00095-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00095-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00095-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00144-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-25.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00279-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00279-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00279-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00368-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00368-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00412-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00422-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00422-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00422-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00510-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00510-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00510-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00893-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00893-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00893-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-25.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01330-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01330-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01330-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01682-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01682-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01683-26.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01683-27.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01862-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01862-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01862-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01889-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-25.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02219-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02219-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02348-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02348-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02350-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02365-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02365-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02365-25.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00199-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00199-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00199-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00203-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00203-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00203-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00203-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-25.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-25.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00737-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00737-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00737-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00738-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00738-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00959-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00959-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00959-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01799-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01799-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02003-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02003-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02067-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02067-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02379-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02379-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02380-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02380-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02421-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02421-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02422-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02422-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02423-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02423-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02424-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02424-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02587-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02587-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02588-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02588-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02729-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02729-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00081-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00568-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00568-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00568-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00904-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00904-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00923-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00993-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00993-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00993-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00993-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01000-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01000-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01455-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01455-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01455-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01663-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01663-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01838-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02163-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02163-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02163-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02168-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02168-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02168-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02168-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02349-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02358-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02358-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02358-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02619-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02619-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02619-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02619-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02619-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02625-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02625-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02625-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02625-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02625-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02627-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02627-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02627-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02627-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02627-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02629-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02629-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02629-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02629-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02629-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02646-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02646-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02646-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02646-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02646-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02648-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02648-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02648-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02648-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02648-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02650-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02650-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02650-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02650-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02650-26.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02660-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02660-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02660-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02660-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02660-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02669-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02669-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02669-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02669-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02669-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02951-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02951-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02963-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02963-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02963-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02964-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02964-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02969-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02969-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03272-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03272-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03272-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03678-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03678-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03962-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03962-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03962-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03962-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03962-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03963-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03963-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03963-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03963-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03963-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03965-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03965-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03965-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03965-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03965-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04013-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04013-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04013-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04013-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04013-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04014-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04014-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04014-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04014-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04014-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04391-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04391-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00221-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00221-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00221-26.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00221-27.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00221-28.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00247-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00247-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00247-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00497-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00555-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00555-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00555-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00555-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01028-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01028-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01028-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01028-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01194-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01846-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01846-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01846-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01892-28.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01892-29.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02252-29.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02284-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02284-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02288-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02289-26.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02300-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02300-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02339-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02339-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02339-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02374-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02374-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02375-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02375-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02425-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02425-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02426-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02426-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02435-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02435-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02435-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02494-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02523-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02523-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02675-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03051-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03051-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03076-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03076-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03093-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03093-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03093-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03093-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03204-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03204-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03424-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03425-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03486-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03486-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03486-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03662-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03662-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03662-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03848-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03848-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03877-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03877-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03882-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03882-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03886-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03886-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03886-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04162-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04162-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04162-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        }
+    ],
+    "val": [
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00604-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00604-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00604-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01632-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01632-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01632-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01890-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02345-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02345-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02345-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00578-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00578-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00578-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00578-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01823-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01823-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01823-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02433-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02433-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02529-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02529-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02582-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02582-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02586-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02586-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00445-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00445-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00445-26.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00603-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00603-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00965-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00965-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00965-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00965-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01285-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01285-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01285-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02127-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02127-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02127-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02127-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02546-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02546-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02552-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02552-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02665-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02665-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02665-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02665-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02665-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02891-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02891-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00211-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00211-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00211-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00211-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01025-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01025-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01025-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01025-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01411-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01411-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01411-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01411-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02283-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02283-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02575-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02575-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03092-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03092-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03092-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03092-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03875-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03875-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03880-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03880-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        }
+    ],
+    "test": [
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/2f2e5477-42a4-4906-a943-bf7f80_D1_D1.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00001-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00009-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00093-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00140-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00140-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00913-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00913-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00913-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02508-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02508-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02508-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02549-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02549-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00704-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00704-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01842-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01842-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01842-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02000-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02000-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02002-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02002-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-23.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-24.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02572-21.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02572-22.pth",
+            "label": "Lung adenocarcinoma (LUAD)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00415-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00415-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00927-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00927-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00927-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01606-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01884-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01884-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01884-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02130-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02130-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02130-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02130-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02164-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02164-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02164-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02170-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02170-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02170-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02649-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02649-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02649-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02649-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02649-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02968-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03961-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03961-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03961-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03961-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03961-25.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04071-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04071-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01017-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01017-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01017-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01017-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01020-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01020-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01020-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01020-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01893-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01893-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02285-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02285-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02434-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02434-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02434-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03072-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03072-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03441-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03851-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03851-24.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04124-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04124-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04127-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04127-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04155-21.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04155-22.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        },
+        {
+            "path": "Lung squamous cell carcinoma (LSCC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04155-23.pth",
+            "label": "Lung squamous cell carcinoma (LSCC)"
+        }
+    ]
+}

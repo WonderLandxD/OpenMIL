@@ -1,0 +1,2260 @@
+{
+    "train": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0102.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0103.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0104.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0105.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0106.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0107.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0108.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0109.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0110.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0111.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0112.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0113.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0114.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0115.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0116.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0117.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0118.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0119.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0120.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0121.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0122.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0123.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0124.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0125.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0126.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0127.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0128.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0129.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0130.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0131.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0132.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0133.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0134.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0135.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0136.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0137.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0138.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0139.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0140.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0141.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0142.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0143.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0144.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0145.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0146.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0147.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0148.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0149.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0150.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0151.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0152.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0153.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0154.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0155.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0156.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0157.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0158.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0159.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0160.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0161.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0162.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0163.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0164.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0165.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0166.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0167.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0168.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0169.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0170.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0171.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0172.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0173.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0174.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0175.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0176.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0177.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0178.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0179.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0180.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0181.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0182.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0183.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0184.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0185.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0186.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0187.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0188.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0189.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0190.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0191.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0192.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0193.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0194.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0195.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0196.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0197.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0198.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0199.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0200.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0201.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0202.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0203.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0204.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0205.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0206.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0207.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0208.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0209.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0210.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0211.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0212.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0213.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0214.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0215.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0216.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0217.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0218.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0219.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0220.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0221.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0222.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0223.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0224.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0225.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0226.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0227.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0228.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0229.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0230.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0231.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0232.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0233.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0234.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0235.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0236.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0237.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0238.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0239.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0240.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0241.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0242.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0243.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0244.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0245.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0246.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0247.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0248.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0249.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0250.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0251.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0252.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0253.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0254.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0255.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0256.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0257.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0258.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0259.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0260.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0261.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0262.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0263.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0264.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0265.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0266.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0267.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0268.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0269.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0270.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0271.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0272.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0273.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0274.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0275.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0276.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0277.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0278.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0279.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0280.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0281.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0282.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0283.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0284.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0285.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0286.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0287.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0288.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0289.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0290.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0291.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0292.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0293.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0294.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0295.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0296.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0297.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0298.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0299.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0300.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0301.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0302.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0303.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0304.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0305.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0306.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0307.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0308.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0309.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0310.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0311.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0312.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0313.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0314.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0315.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0316.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0317.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0318.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0319.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0320.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0321.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0322.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0323.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0324.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0325.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0326.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0327.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0328.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0329.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0330.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0331.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0332.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0333.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0334.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0335.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0336.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0337.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0338.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0339.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0340.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0341.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0342.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0343.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0344.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0345.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0346.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0347.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0348.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0349.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0350.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0351.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0352.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0353.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0354.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0355.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0356.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0357.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0358.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0359.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0360.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0361.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0362.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0363.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0364.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0365.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0366.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0367.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0368.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0369.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0370.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0371.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0372.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0373.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0374.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0375.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0376.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0377.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0378.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0379.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0380.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0381.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0382.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0383.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0384.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0385.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0386.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0387.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0388.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0389.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0390.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0391.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0392.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0393.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0394.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0395.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0396.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0397.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0398.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0399.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0400.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0401.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0402.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0403.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0404.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0405.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0406.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0407.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0408.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0409.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0410.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0411.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0412.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0413.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0414.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0415.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0416.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0417.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0418.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0419.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0420.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0421.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0422.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0423.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0424.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0425.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0426.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0427.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0428.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0429.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0430.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0431.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0432.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0433.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0434.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0435.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0436.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0437.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0438.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0439.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0440.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0441.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0442.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0443.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0444.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0445.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0446.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0447.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0448.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0449.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0450.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0451.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0452.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0453.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0454.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0455.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0456.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0457.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0458.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0459.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0460.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0461.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0462.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0463.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0464.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0465.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0466.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0467.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0468.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0469.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0470.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0471.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0472.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0473.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0474.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0475.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0476.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0477.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0478.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0479.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0480.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0481.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0482.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0483.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0484.pth",
+            "label": "Benign"
+        }
+    ],
+    "val": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0001.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0002.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0003.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0004.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0005.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0006.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0007.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0008.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0009.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0010.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0011.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0012.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0013.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0014.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0015.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0016.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0017.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0018.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0019.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0020.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0021.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0022.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0023.pth",
+            "label": "Papillary"
+        }
+    ],
+    "test": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0024.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0025.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0026.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0027.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0028.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0029.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0030.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0031.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0032.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0033.pth",
+            "label": "Benign"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0034.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0035.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0036.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0037.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0038.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0039.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0040.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0041.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0042.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0043.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0044.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0045.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0046.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0047.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0048.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0049.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0050.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0051.pth",
+            "label": "Chromophobe"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0052.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0053.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0054.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0055.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0056.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0057.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0058.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0059.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0060.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0061.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0062.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0063.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0064.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0065.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0066.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0067.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0068.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0069.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0070.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0071.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0072.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0073.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0074.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0075.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0076.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0077.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0078.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0079.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0080.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0081.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0082.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0083.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0084.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0085.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0086.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0087.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0088.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0089.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0090.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0091.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0092.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0093.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0094.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0095.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0096.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0097.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0098.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0099.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0100.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0101.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0485.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0486.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0487.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0488.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0489.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0490.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0491.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0492.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0493.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0494.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0495.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0496.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0497.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0498.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0499.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0500.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0501.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0502.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0503.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0504.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0505.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0506.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0507.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0508.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0509.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0510.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0511.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0512.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0513.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0514.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0515.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0516.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0517.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0518.pth",
+            "label": "Clearcell"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0519.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0520.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0521.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0522.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0523.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0524.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0525.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0526.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0527.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0528.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0529.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0530.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0531.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0532.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0533.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0534.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0535.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0536.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0537.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0538.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0539.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0540.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0541.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0542.pth",
+            "label": "Oncocytoma"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0543.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0544.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0545.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0546.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0547.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0548.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0549.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0550.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0551.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0552.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0553.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0554.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0555.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0556.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0557.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0558.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0559.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0560.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0561.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0562.pth",
+            "label": "Papillary"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/DHMC_0563.pth",
+            "label": "Papillary"
+        }
+    ]
+}

@@ -1,0 +1,1713 @@
+{
+  "num_bins": 8,
+  "task": "OS",
+  "dataset": "cptac_hnsc",
+  "fold": 1,
+  "train": [
+    {
+      "slide_id": "C3L-00999-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00999-21.pth",
+      "survival_time": 1137.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00999-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00999-24.pth",
+      "survival_time": 1137.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-04354-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04354-22.pth",
+      "survival_time": 1017.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-04354-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04354-21.pth",
+      "survival_time": 1017.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-04354-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04354-23.pth",
+      "survival_time": 1017.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-04354-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04354-24.pth",
+      "survival_time": 1017.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-04354-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04354-25.pth",
+      "survival_time": 1017.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-04844-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04844-21.pth",
+      "survival_time": 1096.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-04844-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04844-22.pth",
+      "survival_time": 1096.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00297-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00297-21.pth",
+      "survival_time": 1734.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00297-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00297-22.pth",
+      "survival_time": 1734.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00297-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00297-23.pth",
+      "survival_time": 1734.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00297-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00297-24.pth",
+      "survival_time": 1734.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01338-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01338-21.pth",
+      "survival_time": 585.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01338-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01338-22.pth",
+      "survival_time": 585.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01645-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01645-22.pth",
+      "survival_time": 584.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01645-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01645-23.pth",
+      "survival_time": 584.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02279-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02279-21.pth",
+      "survival_time": 414.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02716-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02716-23.pth",
+      "survival_time": 258.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02716-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02716-21.pth",
+      "survival_time": 258.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02716-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02716-22.pth",
+      "survival_time": 258.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03226-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03226-22.pth",
+      "survival_time": 730.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03226-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03226-21.pth",
+      "survival_time": 730.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03226-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03226-23.pth",
+      "survival_time": 730.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03488-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03488-23.pth",
+      "survival_time": 706.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03488-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03488-21.pth",
+      "survival_time": 706.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03488-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03488-22.pth",
+      "survival_time": 706.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03781-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03781-21.pth",
+      "survival_time": 1235.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-03841-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03841-21.pth",
+      "survival_time": 753.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03841-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03841-22.pth",
+      "survival_time": 753.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-04152-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04152-21.pth",
+      "survival_time": 671.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-04152-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04152-22.pth",
+      "survival_time": 671.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-04152-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04152-23.pth",
+      "survival_time": 671.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-04273-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04273-21.pth",
+      "survival_time": 425.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-04273-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04273-23.pth",
+      "survival_time": 425.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-04276-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04276-21.pth",
+      "survival_time": 1165.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00977-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00977-22.pth",
+      "survival_time": 1537.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01138-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01138-21.pth",
+      "survival_time": 367.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02621-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02621-21.pth",
+      "survival_time": 314.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02621-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02621-22.pth",
+      "survival_time": 314.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02621-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02621-23.pth",
+      "survival_time": 314.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02621-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02621-24.pth",
+      "survival_time": 314.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02621-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02621-25.pth",
+      "survival_time": 314.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00307-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00307-22.pth",
+      "survival_time": 270.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00307-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00307-21.pth",
+      "survival_time": 270.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00307-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00307-23.pth",
+      "survival_time": 270.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00307-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00307-24.pth",
+      "survival_time": 270.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00519-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00519-22.pth",
+      "survival_time": 258.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00519-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00519-21.pth",
+      "survival_time": 258.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00519-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00519-23.pth",
+      "survival_time": 258.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00519-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00519-24.pth",
+      "survival_time": 258.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00828-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00828-24.pth",
+      "survival_time": 948.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00828-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00828-21.pth",
+      "survival_time": 948.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00828-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00828-22.pth",
+      "survival_time": 948.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00828-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00828-23.pth",
+      "survival_time": 948.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00846-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00846-22.pth",
+      "survival_time": 644.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00846-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00846-21.pth",
+      "survival_time": 644.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00846-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00846-23.pth",
+      "survival_time": 644.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01755-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01755-21.pth",
+      "survival_time": 1701.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01755-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01755-22.pth",
+      "survival_time": 1701.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01755-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01755-23.pth",
+      "survival_time": 1701.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01859-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01859-21.pth",
+      "survival_time": 1039.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-03458-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03458-21.pth",
+      "survival_time": 1393.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03837-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03837-21.pth",
+      "survival_time": 706.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03837-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03837-22.pth",
+      "survival_time": 706.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03888-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03888-22.pth",
+      "survival_time": 675.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03888-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03888-21.pth",
+      "survival_time": 675.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03888-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03888-23.pth",
+      "survival_time": 675.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03933-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03933-23.pth",
+      "survival_time": 749.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03933-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03933-21.pth",
+      "survival_time": 749.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03933-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03933-22.pth",
+      "survival_time": 749.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-04278-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04278-21.pth",
+      "survival_time": 576.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-04280-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04280-23.pth",
+      "survival_time": 1058.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00994-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00994-24.pth",
+      "survival_time": 202.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00994-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00994-21.pth",
+      "survival_time": 202.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00994-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00994-22.pth",
+      "survival_time": 202.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00994-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00994-23.pth",
+      "survival_time": 202.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-04791-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04791-24.pth",
+      "survival_time": 273.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04791-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04791-21.pth",
+      "survival_time": 273.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04791-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04791-22.pth",
+      "survival_time": 273.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04791-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04791-23.pth",
+      "survival_time": 273.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04791-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04791-25.pth",
+      "survival_time": 273.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00295-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00295-21.pth",
+      "survival_time": 1679.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00295-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00295-22.pth",
+      "survival_time": 1679.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00295-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00295-23.pth",
+      "survival_time": 1679.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00295-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00295-24.pth",
+      "survival_time": 1679.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00299-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00299-22.pth",
+      "survival_time": 231.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00299-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00299-21.pth",
+      "survival_time": 231.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00299-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00299-23.pth",
+      "survival_time": 231.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00299-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00299-24.pth",
+      "survival_time": 231.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00306-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00306-22.pth",
+      "survival_time": 645.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00306-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00306-21.pth",
+      "survival_time": 645.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00306-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00306-23.pth",
+      "survival_time": 645.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00306-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00306-24.pth",
+      "survival_time": 645.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00822-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00822-21.pth",
+      "survival_time": 978.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00822-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00822-22.pth",
+      "survival_time": 978.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01620-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01620-23.pth",
+      "survival_time": 1202.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01620-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01620-21.pth",
+      "survival_time": 1202.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01756-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01756-21.pth",
+      "survival_time": 1547.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01757-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01757-24.pth",
+      "survival_time": 1337.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01757-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01757-21.pth",
+      "survival_time": 1337.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01757-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01757-22.pth",
+      "survival_time": 1337.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01757-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01757-23.pth",
+      "survival_time": 1337.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01947-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01947-22.pth",
+      "survival_time": 1191.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02695-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02695-21.pth",
+      "survival_time": 632.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02695-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02695-22.pth",
+      "survival_time": 632.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03487-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03487-22.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03487-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03487-21.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03487-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03487-23.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03783-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03783-21.pth",
+      "survival_time": 952.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03785-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03785-23.pth",
+      "survival_time": 1152.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-03849-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03849-21.pth",
+      "survival_time": 335.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03849-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03849-22.pth",
+      "survival_time": 335.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03928-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03928-23.pth",
+      "survival_time": 702.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03928-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03928-21.pth",
+      "survival_time": 702.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03928-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03928-22.pth",
+      "survival_time": 702.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-02651-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02651-24.pth",
+      "survival_time": 291.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02651-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02651-25.pth",
+      "survival_time": 291.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02651-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02651-21.pth",
+      "survival_time": 291.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02651-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02651-22.pth",
+      "survival_time": 291.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02651-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02651-23.pth",
+      "survival_time": 291.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-03378-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03378-24.pth",
+      "survival_time": 1175.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-04025-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04025-23.pth",
+      "survival_time": 470.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-04025-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04025-21.pth",
+      "survival_time": 470.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-04025-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04025-22.pth",
+      "survival_time": 470.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-04025-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04025-24.pth",
+      "survival_time": 470.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-04025-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04025-25.pth",
+      "survival_time": 470.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00204-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00204-22.pth",
+      "survival_time": 175.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00204-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00204-23.pth",
+      "survival_time": 175.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00204-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00204-24.pth",
+      "survival_time": 175.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00204-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00204-21.pth",
+      "survival_time": 175.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01340-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01340-21.pth",
+      "survival_time": 1388.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01340-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01340-22.pth",
+      "survival_time": 1388.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01754-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01754-22.pth",
+      "survival_time": 1535.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01754-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01754-23.pth",
+      "survival_time": 1535.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01754-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01754-24.pth",
+      "survival_time": 1535.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01754-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01754-21.pth",
+      "survival_time": 1535.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01758-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01758-23.pth",
+      "survival_time": 712.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01758-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01758-21.pth",
+      "survival_time": 712.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01758-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01758-22.pth",
+      "survival_time": 712.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01944-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01944-21.pth",
+      "survival_time": 610.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01946-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01946-21.pth",
+      "survival_time": 1335.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02713-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02713-23.pth",
+      "survival_time": 744.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02713-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02713-21.pth",
+      "survival_time": 744.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02713-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02713-22.pth",
+      "survival_time": 744.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02714-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02714-22.pth",
+      "survival_time": 907.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02714-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02714-21.pth",
+      "survival_time": 907.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02714-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02714-23.pth",
+      "survival_time": 907.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02727-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02727-21.pth",
+      "survival_time": 693.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02727-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02727-22.pth",
+      "survival_time": 693.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02727-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02727-23.pth",
+      "survival_time": 693.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03009-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03009-21.pth",
+      "survival_time": 655.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03009-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03009-23.pth",
+      "survival_time": 655.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03011-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03011-21.pth",
+      "survival_time": 598.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03011-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03011-22.pth",
+      "survival_time": 598.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03011-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03011-24.pth",
+      "survival_time": 598.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03457-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03457-22.pth",
+      "survival_time": 1395.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03619-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03619-22.pth",
+      "survival_time": 97.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03619-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03619-21.pth",
+      "survival_time": 97.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03619-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03619-23.pth",
+      "survival_time": 97.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03664-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03664-21.pth",
+      "survival_time": 733.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03664-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03664-22.pth",
+      "survival_time": 733.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03664-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03664-23.pth",
+      "survival_time": 733.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03782-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03782-21.pth",
+      "survival_time": 1088.0,
+      "censorship": 1,
+      "label": 3
+    }
+  ],
+  "val": [
+    {
+      "slide_id": "C3L-00997-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00997-24.pth",
+      "survival_time": 442.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-00997-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00997-21.pth",
+      "survival_time": 442.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-04849-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04849-22.pth",
+      "survival_time": 356.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04849-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04849-21.pth",
+      "survival_time": 356.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00871-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00871-21.pth",
+      "survival_time": 400.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00871-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00871-22.pth",
+      "survival_time": 400.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03012-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03012-21.pth",
+      "survival_time": 1333.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-03456-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03456-21.pth",
+      "survival_time": 1426.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02617-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02617-23.pth",
+      "survival_time": 967.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02617-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02617-25.pth",
+      "survival_time": 967.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02617-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02617-21.pth",
+      "survival_time": 967.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02617-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02617-22.pth",
+      "survival_time": 967.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02617-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02617-24.pth",
+      "survival_time": 967.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00825-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00825-23.pth",
+      "survival_time": 1730.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00825-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00825-24.pth",
+      "survival_time": 1730.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00857-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00857-21.pth",
+      "survival_time": 636.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00857-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00857-22.pth",
+      "survival_time": 636.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02925-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02925-21.pth",
+      "survival_time": 1022.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02925-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02925-22.pth",
+      "survival_time": 1022.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03433-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03433-22.pth",
+      "survival_time": 960.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03028-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03028-21.pth",
+      "survival_time": 1010.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03612-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03612-23.pth",
+      "survival_time": 697.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03612-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03612-21.pth",
+      "survival_time": 697.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03612-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03612-22.pth",
+      "survival_time": 697.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03889-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03889-22.pth",
+      "survival_time": 694.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03889-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03889-21.pth",
+      "survival_time": 694.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03889-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03889-23.pth",
+      "survival_time": 694.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-04279-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04279-21.pth",
+      "survival_time": 1139.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00987-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00987-21.pth",
+      "survival_time": 429.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00987-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00987-22.pth",
+      "survival_time": 429.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00987-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00987-23.pth",
+      "survival_time": 429.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00987-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00987-24.pth",
+      "survival_time": 429.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01943-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01943-22.pth",
+      "survival_time": 852.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01943-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01943-23.pth",
+      "survival_time": 852.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03027-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03027-21.pth",
+      "survival_time": 211.0,
+      "censorship": 0,
+      "label": 4
+    }
+  ],
+  "test": [
+    {
+      "slide_id": "C3N-00498-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00498-22.pth",
+      "survival_time": 1704.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00498-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00498-24.pth",
+      "survival_time": 1704.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00498-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00498-21.pth",
+      "survival_time": 1704.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00498-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00498-23.pth",
+      "survival_time": 1704.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00829-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00829-21.pth",
+      "survival_time": 958.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00829-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00829-22.pth",
+      "survival_time": 958.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00829-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00829-23.pth",
+      "survival_time": 958.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00829-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00829-24.pth",
+      "survival_time": 958.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01337-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01337-24.pth",
+      "survival_time": 616.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01337-25",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01337-25.pth",
+      "survival_time": 616.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01339-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01339-21.pth",
+      "survival_time": 211.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01339-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01339-22.pth",
+      "survival_time": 211.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01752-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01752-22.pth",
+      "survival_time": 998.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01752-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01752-21.pth",
+      "survival_time": 998.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01858-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01858-21.pth",
+      "survival_time": 598.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01858-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01858-22.pth",
+      "survival_time": 598.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01945-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01945-21.pth",
+      "survival_time": 1115.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01945-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01945-24.pth",
+      "survival_time": 1115.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01948-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01948-21.pth",
+      "survival_time": 422.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01948-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01948-23.pth",
+      "survival_time": 422.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02275-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02275-23.pth",
+      "survival_time": 1358.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02275-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02275-24.pth",
+      "survival_time": 1358.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02333-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02333-22.pth",
+      "survival_time": 735.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02333-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02333-21.pth",
+      "survival_time": 735.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02333-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02333-23.pth",
+      "survival_time": 735.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02694-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02694-22.pth",
+      "survival_time": 617.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02694-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02694-23.pth",
+      "survival_time": 617.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02730-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02730-21.pth",
+      "survival_time": 365.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02730-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02730-22.pth",
+      "survival_time": 365.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03008-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03008-21.pth",
+      "survival_time": 158.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03013-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03013-21.pth",
+      "survival_time": 1389.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03015-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03015-21.pth",
+      "survival_time": 1493.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03490-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03490-22.pth",
+      "survival_time": 634.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03490-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03490-21.pth",
+      "survival_time": 634.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03490-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03490-23.pth",
+      "survival_time": 634.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03620-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03620-22.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03620-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03620-21.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03620-23",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03620-23.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03876-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03876-21.pth",
+      "survival_time": 465.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03876-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03876-22.pth",
+      "survival_time": 465.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03878-21",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03878-21.pth",
+      "survival_time": 650.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-03878-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03878-22.pth",
+      "survival_time": 650.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-04275-24",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04275-24.pth",
+      "survival_time": 1135.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-04277-22",
+      "path": "Head and neck squamous cell carcinoma (HNSC)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04277-22.pth",
+      "survival_time": 1162.0,
+      "censorship": 1,
+      "label": 3
+    }
+  ]
+}

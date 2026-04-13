@@ -5,3 +5,27 @@ __pycache__/
 *.pyo
 *.pyd
 *.py[cod]
+
+# Benchmark outputs / logs
+results/
+**/results/
+*.log
+
+# Local environments
+.venv/
+venv/
+env/
+.python-version
+
+# Experiment trackers / caches
+wandb/
+**/wandb/
+.cache/
+**/.cache/
+
+# Large artifacts (do not commit)
+**/patch_features/
+**/*.pth
+**/*.pt
+**/*.ckpt
+**/*.safetensors

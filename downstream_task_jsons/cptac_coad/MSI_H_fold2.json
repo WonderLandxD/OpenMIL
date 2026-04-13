@@ -1,0 +1,396 @@
+{
+    "train": [
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO054-43192517-085e-450e-9481-0a6713.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO015-b873f54a-5a86-4dca-90f9-715820.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO020-52d61ab1-5781-4b47-8e88-37c2ea.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO019-722378ea-d1a7-4cfc-aca5-ba45f9.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/16CO011-7782134d-02db-44ee-adfa-fc1372.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO028-e0068ac5-f557-443a-bd4b-bdfcef.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO058-d3078fa8-0692-411f-8441-0c7c48.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO057-e515eb5c-8005-416a-9b42-59de9d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/27CO004-d0511ea6-43c3-4c61-b08e-cf49b7.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO008-de439530-464e-481b-91ab-0685b9.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO008-98742d96-cc2f-43f0-9de2-bc7afe.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO026-b2615b47-5ac2-4775-9205-50990d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO011-8495cc54-eb88-40ab-b03f-363edf.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO049-d7608884-a0d6-4e9e-aac7-6cd813.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/16CO002-6f5853a3-1d47-4a54-94dc-970c1c.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO005-bc574f73-89ba-44d7-992e-82622c.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO014-1ea1d7ee-e382-4a68-8e7c-74e833.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO020-803736b3-9ca9-4f9f-bdfe-8783e3.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO072-64b606d7-d40f-41ae-b220-a66324.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO013-c7aeb685-31b3-445e-8177-a3e729.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO043-591fb460-703a-437d-8d9a-ff2a35.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO032-01d1ffca-4235-4dfe-bf62-56f71d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/15CO002-74f7759a-279c-4098-b080-358900.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO002-159c49fd-40ff-4616-b6b6-be21a6.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO070-c8694e31-2c8f-4eb6-a7ef-a137d9.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO062-e8faa3a7-9fc7-428e-9334-a0afd0.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO035-1312a0e0-5025-433e-9670-0595bb.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/06CO001-87408d9e-4029-4e8f-b14c-8efc04.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/06CO002-4b263734-430f-41dc-a296-8691f0.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO027-5da00abd-5fa7-4deb-95f1-7982e0.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO021-cf795cd2-317b-4897-a35e-390001.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO045-92c1ebb5-ac1d-4bf5-a14f-516e1d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/20CO001-d8345fa1-f692-4025-bc82-bfaec6.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO029-58a92726-4d1f-4e44-8938-52b97d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO015-d068de5f-8394-46bc-b03a-c6dc9c.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO053-ecf1ca92-c8b7-470f-baf4-81cf73.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO022-f69deaeb-6b6f-4c61-8900-fd0f26.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO077-5557e478-3e6f-475b-8acc-1b4159.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO034-42216d99-e8ff-43c9-b6db-28c3a6.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO039-e295a7d1-a0d0-4b0b-bdc2-729a0d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/21CO007-a467b905-fc0b-427b-8753-6d38dd.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO019-573048dd-2502-40e0-8e8c-c41bb8.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO005-ec9afcc4-ccf7-4226-b0e8-d6897d.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO022-21c6f56a-8881-421b-81fa-c354cb.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/16CO006-97423edb-6f19-4b41-a7cb-af1635.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO044-7e3d5ae0-3dcc-4207-8dd2-59ab4b.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO079-77c493b1-34ba-4efc-8def-987116.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/16CO003-47b9deba-dea0-4e0c-8b0a-4864c3.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO022-7a0266b4-b07c-41dc-8ddd-350e1b.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO006-a8955d38-7a72-4f9d-9c70-5c0f08.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO014-be2d5946-3452-4003-880a-e0372e.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO037-5a007558-764c-463b-a788-fdbccb.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO061-8c73f3a5-fea8-4942-90c0-966f66.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO007-799893aa-d523-4a08-9ea7-611cca.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO044-8af80ae9-2088-4124-91fb-8d6c17.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO031-c6ae57a7-65a0-438e-bae2-97b1c8.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/20CO003-2d266d2d-4bb3-436c-a3e7-06acb2.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO032-695b0b00-a86b-43c0-a6c8-50a840.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO033-8960a27e-69d8-4ec8-a795-c6cf8a.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/22CO006-4d86cf19-8d5b-46b5-ab4c-ace0b2.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/14CO003-fd4edc52-09ef-4b01-be7c-f23f05.pth",
+            "label": "positive"
+        }
+    ],
+    "val": [
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO039-d6584b4a-ca99-4a2a-8b4e-c8b22e.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO018-743c74e4-cd76-4f38-8cb4-3c9107.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO013-dffcac99-9eac-4717-aeb6-f4a2e7.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO030-4cdeecb5-19fb-493c-91f5-eb0efc.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/21CO006-5f823547-ee16-45b7-a6a0-ef25d6.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO005-59891744-2db3-4541-a86a-7f911f.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO011-1425a1a1-c835-47a2-a9b9-4db5d0.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO019-b913f361-c5c2-4e49-91ca-719bd8.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO045-f4bccfe4-98d0-466b-a6d7-44341b.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO048-43e0432b-343d-4e12-817f-21281c.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/22CO004-a2f03d85-5f1a-4b3e-9dbf-74e67e.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO006-c2c53076-b5db-4b7d-983c-a35740.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO050-17cd2121-d347-431c-9cc7-fbab14.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO003-7cc7f69f-99f5-4b23-a9e0-ba0dc8.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO036-21cab01c-e968-42cc-9651-1e53c0.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO018-3d797911-d476-436f-9cce-33e20c.pth",
+            "label": "positive"
+        }
+    ],
+    "test": [
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/09CO008-aa0f5b40-3290-4255-8f4d-f45d4e.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/15CO001-c2db7236-990c-42b6-9ffb-2ad150.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO047-506131e8-6460-472f-9e25-71f8b1.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO047-01bf1906-9bdc-41c3-89a0-b89ef6.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/20CO007-0065bfd9-e1b9-43a8-9379-9658ba.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO033-2f8b02e4-1848-4abc-a95e-dd9eb5.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO006-f9d6fb1b-988e-4d28-9272-cc672f.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO010-0f757044-9bc8-4ed4-90f3-e0a49a.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO015-0aef1fe8-ca61-4113-81d0-d82ee7.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO015-416bb805-e4cd-4ca6-8fdd-1eec2d.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO053-66b829db-1cdd-460d-b2f3-0e9ca9.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO054-f6a7f764-2495-4a1d-89a2-e12f51.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/14CO005-db3f5ad9-d14d-4126-a3e7-d80faa.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO051-f2a13f8d-b129-4567-beae-049b15.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO037-1563ef63-d2e6-406f-adc1-255949.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO039-c952715e-35ca-4e18-ad6f-dd4e39.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO047-3ca0ab23-70ae-4083-bd7d-9f71d8.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/11CO052-0630ecb0-b664-4e75-bb3c-fb62ee.pth",
+            "label": "negative"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/05CO048-4976cbf9-cad4-48ce-b234-622c70.pth",
+            "label": "positive"
+        },
+        {
+            "path": "Colon adenocarcinoma (COAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/01CO008-9452572f-e3ec-4063-a82e-43ac90.pth",
+            "label": "negative"
+        }
+    ]
+}

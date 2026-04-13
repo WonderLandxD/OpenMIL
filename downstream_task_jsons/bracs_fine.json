@@ -1,0 +1,2192 @@
+{
+    "train": [
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003728.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1379.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1486.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1494.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1499.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1616.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1622.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1794.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1795.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1808.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1860.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1861.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1863.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1877.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1882.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1899.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1911.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1912.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1913.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1915.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1922.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1925.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1932.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1933.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1934.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1969.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1987.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3318.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003693.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1239.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1250.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1257.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1319.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1506.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1510.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1773.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1774.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1775.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1777.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1778.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1788.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1815.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1838.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1857.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1858.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1865.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1871.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1916.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1926.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1968.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1971.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_743.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003675.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003713.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003714.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003715.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003716.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003717.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003718.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1267.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1269.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1378.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1385.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1386.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1401.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1403.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1405.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1507.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1513.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1641.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1645.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1658.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1973.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1998.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3275.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3277.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3282.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3292.pth",
+            "label": "N"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003658.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003659.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003668.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003669.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003671.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003672.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003686.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003700.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003706.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003710.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003724.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003725.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003730.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003734.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1240.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1241.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1242.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1248.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1249.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1251.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1253.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1255.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1259.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1273.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1274.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1318.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1320.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1321.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1322.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1324.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1325.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1327.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1329.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1336.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1338.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1370.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1408.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1480.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1483.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1485.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1493.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1508.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1511.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1582.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1583.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1593.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1603.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1605.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1612.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1620.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1631.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1633.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1634.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1640.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1655.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1656.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1659.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1660.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1661.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1664.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1665.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1666.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1668.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1669.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1772.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1779.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1784.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1796.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1832.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1833.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1839.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1841.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1866.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1869.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1879.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1880.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1890.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1893.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1900.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1901.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1902.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1904.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1905.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1924.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1948.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1960.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1961.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1962.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1964.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1965.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1966.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1967.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1972.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1986.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1988.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1989.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1994.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_2000.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_2002.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_2004.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3268.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3269.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3270.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3271.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3272.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3274.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3276.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3279.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3281.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3283.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3309.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3311.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3312.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3334.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3335.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3336.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_745.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_758.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_760.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_761.pth",
+            "label": "PB"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003685.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003705.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003707.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1244.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1270.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1326.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1335.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1337.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1409.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1495.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1498.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1581.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1594.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1596.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1604.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1606.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1617.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1618.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1621.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1642.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1667.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1780.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1782.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1783.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1785.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1786.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1787.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1789.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1791.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1792.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1793.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1834.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1836.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1837.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1873.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1881.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1914.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1917.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1918.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1946.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1949.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1957.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1958.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1959.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1963.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1993.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1995.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1996.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1997.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_2001.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_2005.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3273.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3278.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3310.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3313.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3317.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003697.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1238.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1247.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1369.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1489.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1490.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1491.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1492.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1496.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1497.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1509.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1512.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1514.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1515.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1653.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1771.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1811.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1816.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1835.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1840.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1862.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1864.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1874.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1888.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1903.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1919.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1920.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1921.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1923.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1927.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1928.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1929.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1930.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1931.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1947.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1950.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1970.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1999.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_755.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_762.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003667.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003670.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003673.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003677.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003678.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003684.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003692.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003698.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003699.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003703.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003708.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003709.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003721.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003722.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003723.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003727.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003731.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003732.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1231.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1232.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1233.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1235.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1263.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1265.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1272.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1277.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1279.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1287.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1288.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1289.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1292.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1293.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1356.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1357.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1358.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1360.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1374.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1406.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1407.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1477.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1478.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1484.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1487.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1516.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1635.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1636.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1637.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1638.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1639.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1643.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1646.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1647.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1648.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1649.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1650.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1652.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1654.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1810.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1812.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1827.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1828.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1829.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1830.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1831.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1875.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1984.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_280.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_281.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_283.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_288.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_291.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_295.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_297.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_298.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_311.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3289.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3290.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3291.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3293.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3294.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3305.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3308.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3314.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3315.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3316.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3319.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3320.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3321.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_734.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_747.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_748.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_749.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_750.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_752.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_753.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_754.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_756.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_757.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_759.pth",
+            "label": "IC"
+        },
+        {
+            "path": "train/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_773.pth",
+            "label": "IC"
+        }
+    ],
+    "val": [
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1271.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1797.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1876.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1885.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1953.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1977.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1982.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1983.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "val/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1610.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "val/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1799.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "val/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1886.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "val/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1975.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "val/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3266.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "val/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3285.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1261.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1296.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1584.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1585.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1614.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1632.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1974.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1978.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1979.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1981.pth",
+            "label": "N"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1275.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1276.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1423.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1424.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1608.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1980.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3295.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3296.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3298.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3300.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3337.pth",
+            "label": "PB"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003660.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003661.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1295.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1591.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1592.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1595.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1609.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_265.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3284.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1366.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1367.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1607.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1883.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1935.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3302.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_735.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_736.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_737.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1361.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1362.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1368.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1392.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1393.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1394.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1395.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1798.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3301.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_738.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_739.pth",
+            "label": "IC"
+        },
+        {
+            "path": "val/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_740.pth",
+            "label": "IC"
+        }
+    ],
+    "test": [
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003691.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1003694.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1228.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1503.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1589.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1825.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1844.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1849.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1856.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1892.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1895.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_ADH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1938.pth",
+            "label": "ADH"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1813.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1814.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1936.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1937.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1941.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1943.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1944.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1954.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1955.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_2007.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_AT/Type_FEA/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_300.pth",
+            "label": "FEA"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1579.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1598.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1599.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1601.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1820.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1855.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_N/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3322.pth",
+            "label": "N"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1330.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1412.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1842.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1843.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1845.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1846.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1847.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1850.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1851.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1852.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1870.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1906.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1940.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1942.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_264.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_PB/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3324.pth",
+            "label": "PB"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1334.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1416.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1619.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1821.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1824.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1848.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1853.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1896.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_BT/Type_UDH/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1952.pth",
+            "label": "UDH"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1283.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1473.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1474.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1476.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1588.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1597.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1602.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1867.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1872.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1878.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1897.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_DCIS/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1945.pth",
+            "label": "DCIS"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1284.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1286.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1411.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1413.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1414.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1578.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1580.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1587.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1590.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1817.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1823.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1826.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1908.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_1910.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_286.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_292.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_301.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_305.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_310.pth",
+            "label": "IC"
+        },
+        {
+            "path": "test/Group_MT/Type_IC/20x_224px_0px_overlap/patch_features/<PFM_NAME>/BRACS_3323.pth",
+            "label": "IC"
+        }
+    ]
+}

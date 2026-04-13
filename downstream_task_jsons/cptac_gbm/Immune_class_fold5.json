@@ -1,0 +1,980 @@
+{
+    "train": [
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01815-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01192-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03407-27.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02190-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03180-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03407-30.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03182-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03180-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03182-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02041-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01146-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03968-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03088-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03968-24.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03392-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02465-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01518-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02190-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03088-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00674-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02181-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01369-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03968-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03407-28.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03180-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01043-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03407-29.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01046-24.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01146-25.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00674-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01142-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02465-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03183-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01505-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01364-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02041-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01367-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01815-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02955-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01046-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01192-25.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01364-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02181-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03400-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03400-25.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03392-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02190-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03182-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02770-30.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03188-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01154-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01857-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01887-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02984-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03260-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01149-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03188-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02984-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02770-28.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01156-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03184-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04084-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02542-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02770-29.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02542-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01814-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03184-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02504-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01814-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02970-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02185-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02256-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04084-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03184-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02970-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03188-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01327-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00662-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00677-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02542-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01061-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00677-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02504-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01154-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01061-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02970-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01368-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01857-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02185-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01149-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02782-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00662-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04084-25.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03405-26.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01852-24.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04084-24.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03727-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02188-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03748-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02704-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03070-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01517-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01798-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01157-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00663-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02708-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02707-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03744-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00663-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01818-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00661-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03186-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02900-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01856-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01045-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01049-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02707-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02707-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02785-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01045-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01818-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03070-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01157-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00663-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02769-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02788-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01517-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03387-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02704-25.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02642-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03748-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03744-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02707-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01816-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02188-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01818-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02704-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00661-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02642-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03748-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02785-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02642-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01517-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02704-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02642-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02708-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02769-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02788-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03266-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01816-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00663-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01798-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02785-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01049-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01798-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03748-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02708-21.pth",
+            "label": "medium"
+        }
+    ],
+    "val": [
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03183-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01518-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01142-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03728-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01043-24.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03407-26.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03183-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03968-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01815-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03968-25.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02181-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01518-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01814-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01156-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02984-25.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02984-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01368-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01048-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02255-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02185-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00662-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03405-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01048-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04084-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02188-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02769-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02784-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00661-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02708-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02704-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03387-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02784-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02784-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02788-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03186-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00661-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02707-25.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03744-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03186-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02642-25.pth",
+            "label": "medium"
+        }
+    ],
+    "test": [
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01515-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01366-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01366-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03681-24.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03681-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03681-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03681-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03473-21.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03473-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03473-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02705-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02705-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02705-25.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02705-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02705-24.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02786-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02786-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02786-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02183-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02183-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02183-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00365-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01851-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01834-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02783-25.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02783-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02783-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02783-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02783-24.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02186-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02186-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02186-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01155-21.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01155-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01196-24.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01040-22.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01040-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03390-23.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03390-24.pth",
+            "label": "low"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01334-23.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01334-22.pth",
+            "label": "medium"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00665-21.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00665-22.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00665-23.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00665-24.pth",
+            "label": "high"
+        },
+        {
+            "path": "Glioblastoma (GBM)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00104-21.pth",
+            "label": "low"
+        }
+    ]
+}

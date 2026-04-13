@@ -1,0 +1,1601 @@
+{
+  "num_bins": 8,
+  "task": "OS",
+  "dataset": "cptac_pda",
+  "fold": 4,
+  "train": [
+    {
+      "slide_id": "C3L-00622-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00622-21.pth",
+      "survival_time": 1041.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00622-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00622-23.pth",
+      "survival_time": 1041.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00622-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00622-22.pth",
+      "survival_time": 1041.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01124-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01124-21.pth",
+      "survival_time": 399.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-01124-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01124-22.pth",
+      "survival_time": 399.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-01703-27",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01703-27.pth",
+      "survival_time": 287.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01703-28",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01703-28.pth",
+      "survival_time": 287.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01703-26",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01703-26.pth",
+      "survival_time": 287.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01971-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01971-22.pth",
+      "survival_time": 276.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-01971-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01971-21.pth",
+      "survival_time": 276.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-01971-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01971-23.pth",
+      "survival_time": 276.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02118-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02118-21.pth",
+      "survival_time": 632.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02118-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02118-22.pth",
+      "survival_time": 632.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02118-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02118-23.pth",
+      "survival_time": 632.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02606-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02606-21.pth",
+      "survival_time": 403.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-02606-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02606-22.pth",
+      "survival_time": 403.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-02606-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02606-23.pth",
+      "survival_time": 403.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00514-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00514-21.pth",
+      "survival_time": 795.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00514-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00514-22.pth",
+      "survival_time": 795.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01165-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01165-22.pth",
+      "survival_time": 241.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01165-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01165-23.pth",
+      "survival_time": 241.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01167-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01167-21.pth",
+      "survival_time": 754.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01167-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01167-22.pth",
+      "survival_time": 754.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01380-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01380-21.pth",
+      "survival_time": 400.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01380-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01380-23.pth",
+      "survival_time": 400.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02589-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02589-21.pth",
+      "survival_time": 398.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02768-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02768-21.pth",
+      "survival_time": 430.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02768-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02768-22.pth",
+      "survival_time": 430.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03173-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03173-21.pth",
+      "survival_time": 32.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-03426-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03426-21.pth",
+      "survival_time": 123.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03884-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03884-22.pth",
+      "survival_time": 680.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03884-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03884-21.pth",
+      "survival_time": 680.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00599-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00599-23.pth",
+      "survival_time": 1305.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00599-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00599-22.pth",
+      "survival_time": 1305.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00599-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00599-21.pth",
+      "survival_time": 1305.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01031-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01031-21.pth",
+      "survival_time": 369.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-01031-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01031-23.pth",
+      "survival_time": 369.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-01662-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01662-23.pth",
+      "survival_time": 344.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01662-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01662-21.pth",
+      "survival_time": 344.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01662-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01662-22.pth",
+      "survival_time": 344.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01689-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01689-22.pth",
+      "survival_time": 594.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01689-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01689-23.pth",
+      "survival_time": 594.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01689-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01689-21.pth",
+      "survival_time": 594.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02115-27",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02115-27.pth",
+      "survival_time": 723.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02115-28",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02115-28.pth",
+      "survival_time": 723.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02115-26",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02115-26.pth",
+      "survival_time": 723.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02899-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02899-21.pth",
+      "survival_time": 91.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02899-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02899-22.pth",
+      "survival_time": 91.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-04072-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04072-21.pth",
+      "survival_time": 225.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-04848-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04848-21.pth",
+      "survival_time": 196.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-04848-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04848-23.pth",
+      "survival_time": 196.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-04848-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04848-22.pth",
+      "survival_time": 196.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00198-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00198-22.pth",
+      "survival_time": 1592.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00198-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00198-21.pth",
+      "survival_time": 1592.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00198-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00198-23.pth",
+      "survival_time": 1592.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00302-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00302-22.pth",
+      "survival_time": 323.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00302-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00302-21.pth",
+      "survival_time": 323.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00302-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00302-23.pth",
+      "survival_time": 323.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00302-24",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00302-24.pth",
+      "survival_time": 323.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01716-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01716-23.pth",
+      "survival_time": 335.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03006-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03006-22.pth",
+      "survival_time": 708.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03007-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03007-22.pth",
+      "survival_time": 58.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03840-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03840-21.pth",
+      "survival_time": 696.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03840-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03840-22.pth",
+      "survival_time": 696.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-00819-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00819-21.pth",
+      "survival_time": 603.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00819-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00819-22.pth",
+      "survival_time": 603.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02116-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02116-21.pth",
+      "survival_time": 1063.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-02116-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02116-23.pth",
+      "survival_time": 1063.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-02116-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02116-22.pth",
+      "survival_time": 1063.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-02701-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02701-22.pth",
+      "survival_time": 243.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02701-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02701-21.pth",
+      "survival_time": 243.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02701-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02701-23.pth",
+      "survival_time": 243.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02701-24",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02701-24.pth",
+      "survival_time": 243.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02701-25",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02701-25.pth",
+      "survival_time": 243.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02890-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02890-21.pth",
+      "survival_time": 1007.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-02890-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02890-22.pth",
+      "survival_time": 1007.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-02890-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02890-23.pth",
+      "survival_time": 1007.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-03356-27",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03356-27.pth",
+      "survival_time": 550.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-03356-26",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03356-26.pth",
+      "survival_time": 550.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-03356-28",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03356-28.pth",
+      "survival_time": 550.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-03630-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03630-22.pth",
+      "survival_time": 78.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-03630-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03630-23.pth",
+      "survival_time": 78.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-03630-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03630-21.pth",
+      "survival_time": 78.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-03743-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03743-21.pth",
+      "survival_time": 732.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-03743-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03743-22.pth",
+      "survival_time": 732.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-03743-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03743-23.pth",
+      "survival_time": 732.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-04027-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04027-21.pth",
+      "survival_time": 240.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04027-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04027-22.pth",
+      "survival_time": 240.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04027-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04027-23.pth",
+      "survival_time": 240.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04027-24",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04027-24.pth",
+      "survival_time": 240.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04027-25",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04027-25.pth",
+      "survival_time": 240.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04475-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04475-21.pth",
+      "survival_time": 893.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-04475-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04475-22.pth",
+      "survival_time": 893.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-04475-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04475-23.pth",
+      "survival_time": 893.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-04853-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04853-21.pth",
+      "survival_time": 279.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-04853-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04853-22.pth",
+      "survival_time": 279.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-04853-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04853-23.pth",
+      "survival_time": 279.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01012-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01012-21.pth",
+      "survival_time": 1352.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01012-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01012-22.pth",
+      "survival_time": 1352.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02010-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02010-23.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02010-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02010-21.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02010-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02010-22.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02585-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02585-21.pth",
+      "survival_time": 1051.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02585-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02585-22.pth",
+      "survival_time": 1051.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02971-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02971-21.pth",
+      "survival_time": 70.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02971-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02971-22.pth",
+      "survival_time": 70.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02971-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02971-23.pth",
+      "survival_time": 70.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-04282-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04282-21.pth",
+      "survival_time": 303.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-00102-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00102-21.pth",
+      "survival_time": 249.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00102-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00102-22.pth",
+      "survival_time": 249.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00928-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00928-23.pth",
+      "survival_time": 761.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00928-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00928-21.pth",
+      "survival_time": 761.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00928-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00928-22.pth",
+      "survival_time": 761.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01637-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01637-22.pth",
+      "survival_time": 715.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01637-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01637-23.pth",
+      "survival_time": 715.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01637-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01637-21.pth",
+      "survival_time": 715.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02604-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02604-21.pth",
+      "survival_time": 118.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02897-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02897-21.pth",
+      "survival_time": 256.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-04479-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04479-21.pth",
+      "survival_time": 1104.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-04479-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-04479-22.pth",
+      "survival_time": 1104.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00249-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00249-23.pth",
+      "survival_time": 1590.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00249-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00249-21.pth",
+      "survival_time": 1590.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00249-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00249-22.pth",
+      "survival_time": 1590.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00436-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00436-21.pth",
+      "survival_time": 718.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00436-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00436-22.pth",
+      "survival_time": 718.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00511-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00511-23.pth",
+      "survival_time": 991.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00511-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00511-21.pth",
+      "survival_time": 991.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00511-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00511-22.pth",
+      "survival_time": 991.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00518-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00518-21.pth",
+      "survival_time": 427.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00518-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00518-22.pth",
+      "survival_time": 427.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-00518-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00518-23.pth",
+      "survival_time": 427.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01168-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01168-22.pth",
+      "survival_time": 415.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01168-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01168-23.pth",
+      "survival_time": 415.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01375-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01375-22.pth",
+      "survival_time": 143.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01375-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01375-23.pth",
+      "survival_time": 143.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01381-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01381-21.pth",
+      "survival_time": 455.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01381-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01381-22.pth",
+      "survival_time": 455.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-01383-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01383-21.pth",
+      "survival_time": 791.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01383-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01383-23.pth",
+      "survival_time": 791.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-02573-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02573-21.pth",
+      "survival_time": 479.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02573-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02573-22.pth",
+      "survival_time": 479.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02592-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02592-21.pth",
+      "survival_time": 294.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02592-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02592-22.pth",
+      "survival_time": 294.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02940-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02940-21.pth",
+      "survival_time": 1015.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02940-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02940-22.pth",
+      "survival_time": 1015.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03839-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03839-21.pth",
+      "survival_time": 696.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03839-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03839-22.pth",
+      "survival_time": 696.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03839-25",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03839-25.pth",
+      "survival_time": 696.0,
+      "censorship": 1,
+      "label": 2
+    }
+  ],
+  "val": [
+    {
+      "slide_id": "C3L-02463-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02463-21.pth",
+      "survival_time": 740.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02463-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02463-22.pth",
+      "survival_time": 740.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02463-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02463-23.pth",
+      "survival_time": 740.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-03123-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03123-22.pth",
+      "survival_time": 1503.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-03123-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03123-21.pth",
+      "survival_time": 1503.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-03123-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03123-23.pth",
+      "survival_time": 1503.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-03665-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03665-21.pth",
+      "survival_time": 728.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03754-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03754-21.pth",
+      "survival_time": 815.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00277-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00277-23.pth",
+      "survival_time": 610.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00277-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00277-21.pth",
+      "survival_time": 610.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00277-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00277-22.pth",
+      "survival_time": 610.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00625-25",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00625-25.pth",
+      "survival_time": 1198.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00625-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00625-23.pth",
+      "survival_time": 1198.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00625-24",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00625-24.pth",
+      "survival_time": 1198.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-02109-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02109-22.pth",
+      "survival_time": 261.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02109-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02109-23.pth",
+      "survival_time": 261.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-02109-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02109-21.pth",
+      "survival_time": 261.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-03635-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03635-21.pth",
+      "survival_time": 854.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-03635-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03635-22.pth",
+      "survival_time": 854.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-03635-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03635-23.pth",
+      "survival_time": 854.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-03190-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03190-21.pth",
+      "survival_time": 398.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03190-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03190-22.pth",
+      "survival_time": 398.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-03628-26",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03628-26.pth",
+      "survival_time": 596.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-03628-27",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03628-27.pth",
+      "survival_time": 596.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-03628-28",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03628-28.pth",
+      "survival_time": 596.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-03639-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03639-21.pth",
+      "survival_time": 246.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-03639-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03639-22.pth",
+      "survival_time": 246.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-03639-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-03639-23.pth",
+      "survival_time": 246.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03061-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03061-21.pth",
+      "survival_time": 139.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03061-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03061-22.pth",
+      "survival_time": 139.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-03853-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03853-21.pth",
+      "survival_time": 393.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03853-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03853-22.pth",
+      "survival_time": 393.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-04126-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04126-21.pth",
+      "survival_time": 348.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-04126-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04126-22.pth",
+      "survival_time": 348.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01714-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01714-22.pth",
+      "survival_time": 435.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-01714-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01714-21.pth",
+      "survival_time": 435.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-03430-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03430-22.pth",
+      "survival_time": 39.0,
+      "censorship": 0,
+      "label": 4
+    }
+  ],
+  "test": [
+    {
+      "slide_id": "C3L-00017-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00017-22.pth",
+      "survival_time": 426.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-00017-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00017-21.pth",
+      "survival_time": 426.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-00017-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00017-23.pth",
+      "survival_time": 426.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-00589-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00589-21.pth",
+      "survival_time": 1752.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00589-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00589-22.pth",
+      "survival_time": 1752.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00598-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00598-22.pth",
+      "survival_time": 422.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-00598-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00598-23.pth",
+      "survival_time": 422.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-00598-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00598-21.pth",
+      "survival_time": 422.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01037-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01037-21.pth",
+      "survival_time": 300.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01037-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01037-23.pth",
+      "survival_time": 300.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01328-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01328-21.pth",
+      "survival_time": 271.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-01328-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01328-22.pth",
+      "survival_time": 271.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-01598-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01598-22.pth",
+      "survival_time": 913.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01598-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01598-23.pth",
+      "survival_time": 913.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01687-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01687-21.pth",
+      "survival_time": 376.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01687-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01687-22.pth",
+      "survival_time": 376.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-01687-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01687-23.pth",
+      "survival_time": 376.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3L-02610-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02610-21.pth",
+      "survival_time": 190.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02610-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02610-23.pth",
+      "survival_time": 190.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02610-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02610-22.pth",
+      "survival_time": 190.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02613-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02613-22.pth",
+      "survival_time": 211.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02613-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02613-23.pth",
+      "survival_time": 211.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02613-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02613-21.pth",
+      "survival_time": 211.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02809-24",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02809-24.pth",
+      "survival_time": 68.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02809-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02809-21.pth",
+      "survival_time": 68.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02809-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02809-22.pth",
+      "survival_time": 68.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-02809-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02809-23.pth",
+      "survival_time": 68.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00516-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00516-21.pth",
+      "survival_time": 1152.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-00516-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00516-22.pth",
+      "survival_time": 1152.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01388-23",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01388-23.pth",
+      "survival_time": 811.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-01388-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01388-22.pth",
+      "survival_time": 811.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3N-02579-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02579-22.pth",
+      "survival_time": 358.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02579-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02579-21.pth",
+      "survival_time": 358.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-02944-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02944-21.pth",
+      "survival_time": 609.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02944-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02944-22.pth",
+      "survival_time": 609.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03000-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03000-22.pth",
+      "survival_time": 487.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03086-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03086-22.pth",
+      "survival_time": 733.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03086-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03086-21.pth",
+      "survival_time": 733.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-03439-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03439-22.pth",
+      "survival_time": 458.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-03666-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-03666-21.pth",
+      "survival_time": 701.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-04119-22",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04119-22.pth",
+      "survival_time": 305.0,
+      "censorship": 0,
+      "label": 5
+    },
+    {
+      "slide_id": "C3N-04119-21",
+      "path": "Pancreatic ductal adenocarcinoma (PDA)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-04119-21.pth",
+      "survival_time": 305.0,
+      "censorship": 0,
+      "label": 5
+    }
+  ]
+}

@@ -1,0 +1,2203 @@
+{
+  "num_bins": 8,
+  "task": "OS",
+  "dataset": "cptac_luad",
+  "fold": 0,
+  "train": [
+    {
+      "slide_id": "C3L-00001-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00001-21.pth",
+      "survival_time": 1837.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00009-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00009-21.pth",
+      "survival_time": 577.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00144-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00144-21.pth",
+      "survival_time": 578.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-00279-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00279-22.pth",
+      "survival_time": 606.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-00279-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00279-23.pth",
+      "survival_time": 606.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-00279-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00279-21.pth",
+      "survival_time": 606.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-00510-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00510-22.pth",
+      "survival_time": 38.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00510-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00510-23.pth",
+      "survival_time": 38.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00510-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00510-21.pth",
+      "survival_time": 38.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-01683-26",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01683-26.pth",
+      "survival_time": 1046.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01683-27",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01683-27.pth",
+      "survival_time": 1046.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-01890-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01890-22.pth",
+      "survival_time": 671.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02345-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02345-22.pth",
+      "survival_time": 1376.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02345-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02345-21.pth",
+      "survival_time": 1376.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02345-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02345-23.pth",
+      "survival_time": 1376.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00556-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-23.pth",
+      "survival_time": 394.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00556-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-21.pth",
+      "survival_time": 394.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00556-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-22.pth",
+      "survival_time": 394.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00556-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00556-24.pth",
+      "survival_time": 394.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01416-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-23.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01416-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-21.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01416-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-22.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01416-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01416-24.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02000-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02000-21.pth",
+      "survival_time": 1086.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02000-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02000-23.pth",
+      "survival_time": 1086.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02089-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-23.pth",
+      "survival_time": 403.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02089-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-21.pth",
+      "survival_time": 403.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02089-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-22.pth",
+      "survival_time": 403.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02089-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02089-24.pth",
+      "survival_time": 403.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02380-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02380-21.pth",
+      "survival_time": 1059.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02380-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02380-22.pth",
+      "survival_time": 1059.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02422-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02422-21.pth",
+      "survival_time": 650.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02422-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02422-22.pth",
+      "survival_time": 650.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02586-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02586-21.pth",
+      "survival_time": 30.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02586-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02586-22.pth",
+      "survival_time": 30.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02587-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02587-21.pth",
+      "survival_time": 1111.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02587-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02587-22.pth",
+      "survival_time": 1111.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00083-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00083-21.pth",
+      "survival_time": 1790.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00093-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00093-21.pth",
+      "survival_time": 1703.0,
+      "censorship": 0,
+      "label": 7
+    },
+    {
+      "slide_id": "C3L-00422-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00422-21.pth",
+      "survival_time": 1916.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00422-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00422-22.pth",
+      "survival_time": 1916.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00422-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00422-23.pth",
+      "survival_time": 1916.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00893-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00893-22.pth",
+      "survival_time": 23.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00893-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00893-21.pth",
+      "survival_time": 23.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00893-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00893-23.pth",
+      "survival_time": 23.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00169-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-23.pth",
+      "survival_time": 376.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00169-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-21.pth",
+      "survival_time": 376.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00169-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-22.pth",
+      "survival_time": 376.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00169-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00169-24.pth",
+      "survival_time": 376.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00547-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-21.pth",
+      "survival_time": 474.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00547-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-22.pth",
+      "survival_time": 474.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00547-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-23.pth",
+      "survival_time": 474.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00547-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00547-24.pth",
+      "survival_time": 474.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00551-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-24.pth",
+      "survival_time": 391.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00551-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-21.pth",
+      "survival_time": 391.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00551-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-22.pth",
+      "survival_time": 391.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00551-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00551-23.pth",
+      "survival_time": 391.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00959-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00959-22.pth",
+      "survival_time": 1641.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00959-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00959-21.pth",
+      "survival_time": 1641.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00959-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00959-23.pth",
+      "survival_time": 1641.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01023-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-24.pth",
+      "survival_time": 422.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01023-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-21.pth",
+      "survival_time": 422.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01023-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-22.pth",
+      "survival_time": 422.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01023-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01023-23.pth",
+      "survival_time": 422.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01074-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-21.pth",
+      "survival_time": 229.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01074-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-22.pth",
+      "survival_time": 229.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01074-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-23.pth",
+      "survival_time": 229.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01074-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01074-24.pth",
+      "survival_time": 229.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01410-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-22.pth",
+      "survival_time": 436.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01410-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-21.pth",
+      "survival_time": 436.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01410-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-23.pth",
+      "survival_time": 436.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01410-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01410-24.pth",
+      "survival_time": 436.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01415-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-21.pth",
+      "survival_time": 792.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01415-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-22.pth",
+      "survival_time": 792.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01415-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-23.pth",
+      "survival_time": 792.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01415-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01415-24.pth",
+      "survival_time": 792.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01489-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-22.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01489-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-21.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01489-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-23.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01489-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01489-24.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02149-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-22.pth",
+      "survival_time": 413.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02149-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-21.pth",
+      "survival_time": 413.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02149-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-23.pth",
+      "survival_time": 413.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02149-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02149-24.pth",
+      "survival_time": 413.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02379-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02379-21.pth",
+      "survival_time": 443.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02379-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02379-22.pth",
+      "survival_time": 443.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02421-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02421-21.pth",
+      "survival_time": 1171.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02421-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02421-22.pth",
+      "survival_time": 1171.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02423-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02423-21.pth",
+      "survival_time": 695.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02423-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02423-22.pth",
+      "survival_time": 695.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02424-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02424-21.pth",
+      "survival_time": 355.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02424-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02424-22.pth",
+      "survival_time": 355.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02529-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02529-21.pth",
+      "survival_time": 849.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02529-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02529-22.pth",
+      "survival_time": 849.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00080-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00080-21.pth",
+      "survival_time": 1805.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00263-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-24.pth",
+      "survival_time": 1157.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00263-25",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-25.pth",
+      "survival_time": 1157.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00263-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-21.pth",
+      "survival_time": 1157.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00263-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-22.pth",
+      "survival_time": 1157.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00263-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00263-23.pth",
+      "survival_time": 1157.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00604-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00604-21.pth",
+      "survival_time": 1801.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00604-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00604-22.pth",
+      "survival_time": 1801.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00604-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00604-23.pth",
+      "survival_time": 1801.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00913-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00913-23.pth",
+      "survival_time": 73.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00913-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00913-21.pth",
+      "survival_time": 73.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00913-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00913-22.pth",
+      "survival_time": 73.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-01682-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01682-21.pth",
+      "survival_time": 1617.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01682-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01682-23.pth",
+      "survival_time": 1617.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00167-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-22.pth",
+      "survival_time": 842.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00167-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-21.pth",
+      "survival_time": 842.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00167-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-23.pth",
+      "survival_time": 842.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00167-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00167-24.pth",
+      "survival_time": 842.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00433-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-23.pth",
+      "survival_time": 60.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00433-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-21.pth",
+      "survival_time": 60.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00433-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-22.pth",
+      "survival_time": 60.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00433-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-24.pth",
+      "survival_time": 60.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00433-25",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00433-25.pth",
+      "survival_time": 60.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00546-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-21.pth",
+      "survival_time": 382.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00546-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-22.pth",
+      "survival_time": 382.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00546-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-23.pth",
+      "survival_time": 382.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00546-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00546-24.pth",
+      "survival_time": 382.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00560-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-22.pth",
+      "survival_time": 378.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00560-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-21.pth",
+      "survival_time": 378.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00560-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-23.pth",
+      "survival_time": 378.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00560-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00560-24.pth",
+      "survival_time": 378.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00574-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-21.pth",
+      "survival_time": 397.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00574-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-22.pth",
+      "survival_time": 397.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00574-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-23.pth",
+      "survival_time": 397.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00574-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00574-24.pth",
+      "survival_time": 397.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01405-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-21.pth",
+      "survival_time": 418.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01405-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-22.pth",
+      "survival_time": 418.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01405-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-23.pth",
+      "survival_time": 418.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01405-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01405-24.pth",
+      "survival_time": 418.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01413-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-21.pth",
+      "survival_time": 444.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01413-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-22.pth",
+      "survival_time": 444.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01413-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-23.pth",
+      "survival_time": 444.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01413-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01413-24.pth",
+      "survival_time": 444.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02145-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-23.pth",
+      "survival_time": 405.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02145-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-21.pth",
+      "survival_time": 405.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02145-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-22.pth",
+      "survival_time": 405.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02145-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02145-24.pth",
+      "survival_time": 405.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02582-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02582-21.pth",
+      "survival_time": 888.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02582-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02582-22.pth",
+      "survival_time": 888.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02729-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02729-21.pth",
+      "survival_time": 820.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-02729-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02729-22.pth",
+      "survival_time": 820.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01632-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01632-22.pth",
+      "survival_time": 717.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01632-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01632-21.pth",
+      "survival_time": 717.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01632-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01632-23.pth",
+      "survival_time": 717.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02348-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02348-22.pth",
+      "survival_time": 1425.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02348-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02348-21.pth",
+      "survival_time": 1425.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02549-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02549-22.pth",
+      "survival_time": 447.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02549-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02549-21.pth",
+      "survival_time": 447.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00180-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-22.pth",
+      "survival_time": 355.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00180-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-21.pth",
+      "survival_time": 355.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00180-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-23.pth",
+      "survival_time": 355.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00180-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00180-24.pth",
+      "survival_time": 355.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00294-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-22.pth",
+      "survival_time": 1848.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00294-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-21.pth",
+      "survival_time": 1848.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00294-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-23.pth",
+      "survival_time": 1848.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00294-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00294-24.pth",
+      "survival_time": 1848.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00550-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-22.pth",
+      "survival_time": 401.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00550-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-21.pth",
+      "survival_time": 401.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00550-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-23.pth",
+      "survival_time": 401.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00550-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00550-24.pth",
+      "survival_time": 401.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00580-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-23.pth",
+      "survival_time": 386.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00580-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-21.pth",
+      "survival_time": 386.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00580-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-22.pth",
+      "survival_time": 386.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00580-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00580-24.pth",
+      "survival_time": 386.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00737-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00737-21.pth",
+      "survival_time": 384.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00737-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00737-23.pth",
+      "survival_time": 384.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00737-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00737-22.pth",
+      "survival_time": 384.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01016-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-22.pth",
+      "survival_time": 428.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01016-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-21.pth",
+      "survival_time": 428.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01016-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-23.pth",
+      "survival_time": 428.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01016-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01016-24.pth",
+      "survival_time": 428.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01021-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-21.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01021-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-22.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01021-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-23.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01021-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01021-24.pth",
+      "survival_time": 434.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01030-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-23.pth",
+      "survival_time": 443.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01030-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-21.pth",
+      "survival_time": 443.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01030-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-22.pth",
+      "survival_time": 443.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01030-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01030-24.pth",
+      "survival_time": 443.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01071-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-23.pth",
+      "survival_time": 44.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01071-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-21.pth",
+      "survival_time": 44.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01071-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-22.pth",
+      "survival_time": 44.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01071-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01071-24.pth",
+      "survival_time": 44.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-01799-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01799-22.pth",
+      "survival_time": 1545.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01799-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01799-21.pth",
+      "survival_time": 1545.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01823-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01823-22.pth",
+      "survival_time": 351.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01823-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01823-21.pth",
+      "survival_time": 351.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01823-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01823-23.pth",
+      "survival_time": 351.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-01842-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01842-21.pth",
+      "survival_time": 681.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01842-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01842-22.pth",
+      "survival_time": 681.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01842-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01842-23.pth",
+      "survival_time": 681.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02067-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02067-21.pth",
+      "survival_time": 1081.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02067-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02067-22.pth",
+      "survival_time": 1081.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02433-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02433-21.pth",
+      "survival_time": 1137.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02433-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02433-22.pth",
+      "survival_time": 1137.0,
+      "censorship": 1,
+      "label": 3
+    }
+  ],
+  "val": [
+    {
+      "slide_id": "C3L-00368-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00368-21.pth",
+      "survival_time": 141.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00368-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00368-22.pth",
+      "survival_time": 141.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-01889-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01889-21.pth",
+      "survival_time": 1799.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02508-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02508-22.pth",
+      "survival_time": 1013.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02508-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02508-21.pth",
+      "survival_time": 1013.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3L-02508-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02508-23.pth",
+      "survival_time": 1013.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00223-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-21.pth",
+      "survival_time": 49.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00223-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-22.pth",
+      "survival_time": 49.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00223-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-23.pth",
+      "survival_time": 49.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00223-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-24.pth",
+      "survival_time": 49.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00223-25",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00223-25.pth",
+      "survival_time": 49.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00559-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-21.pth",
+      "survival_time": 398.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00559-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-22.pth",
+      "survival_time": 398.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00559-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-23.pth",
+      "survival_time": 398.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00559-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00559-24.pth",
+      "survival_time": 398.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3L-01330-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01330-21.pth",
+      "survival_time": 1595.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01330-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01330-22.pth",
+      "survival_time": 1595.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01330-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01330-23.pth",
+      "survival_time": 1595.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01924-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-23.pth",
+      "survival_time": 1133.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01924-25",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-25.pth",
+      "survival_time": 1133.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01924-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-21.pth",
+      "survival_time": 1133.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01924-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-22.pth",
+      "survival_time": 1133.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01924-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01924-24.pth",
+      "survival_time": 1133.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "93e30fd5-e57e-4503-a175-863c7d_D1_D1",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/93e30fd5-e57e-4503-a175-863c7d_D1_D1.pth",
+      "survival_time": 445.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "2f2e5477-42a4-4906-a943-bf7f80_D1_D1",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/2f2e5477-42a4-4906-a943-bf7f80_D1_D1.pth",
+      "survival_time": 7.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-00549-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-23.pth",
+      "survival_time": 791.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00549-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-21.pth",
+      "survival_time": 791.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00549-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-22.pth",
+      "survival_time": 791.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00549-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00549-24.pth",
+      "survival_time": 791.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02087-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-21.pth",
+      "survival_time": 303.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02087-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-22.pth",
+      "survival_time": 303.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02087-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-23.pth",
+      "survival_time": 303.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02087-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02087-24.pth",
+      "survival_time": 303.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-02158-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-24.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02158-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-21.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02158-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-22.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02158-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02158-23.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02588-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02588-21.pth",
+      "survival_time": 1106.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02588-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02588-22.pth",
+      "survival_time": 1106.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-02365-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02365-21.pth",
+      "survival_time": 627.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02365-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02365-24.pth",
+      "survival_time": 627.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02365-25",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02365-25.pth",
+      "survival_time": 627.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3N-00293-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-24.pth",
+      "survival_time": 1832.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00293-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-21.pth",
+      "survival_time": 1832.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00293-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-22.pth",
+      "survival_time": 1832.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00293-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00293-23.pth",
+      "survival_time": 1832.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-01072-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-22.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01072-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-21.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01072-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-23.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01072-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01072-24.pth",
+      "survival_time": 449.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-02155-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-23.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02155-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-21.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02155-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-22.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02155-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02155-24.pth",
+      "survival_time": 423.0,
+      "censorship": 1,
+      "label": 1
+    }
+  ],
+  "test": [
+    {
+      "slide_id": "5a84eae1-197e-4463-ad65-59becc_D1_D1",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/5a84eae1-197e-4463-ad65-59becc_D1_D1.pth",
+      "survival_time": 7.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3L-00094-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00094-21.pth",
+      "survival_time": 889.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-00095-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00095-21.pth",
+      "survival_time": 1794.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00095-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00095-22.pth",
+      "survival_time": 1794.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00095-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00095-23.pth",
+      "survival_time": 1794.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00140-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00140-22.pth",
+      "survival_time": 1802.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00140-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00140-21.pth",
+      "survival_time": 1802.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00412-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00412-21.pth",
+      "survival_time": 162.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3L-00973-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-23.pth",
+      "survival_time": 1435.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00973-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-21.pth",
+      "survival_time": 1435.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00973-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-22.pth",
+      "survival_time": 1435.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00973-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-24.pth",
+      "survival_time": 1435.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-00973-25",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-00973-25.pth",
+      "survival_time": 1435.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3L-01862-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01862-21.pth",
+      "survival_time": 594.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01862-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01862-22.pth",
+      "survival_time": 594.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-01862-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-01862-23.pth",
+      "survival_time": 594.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02219-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02219-21.pth",
+      "survival_time": 931.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02219-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02219-22.pth",
+      "survival_time": 931.0,
+      "censorship": 0,
+      "label": 6
+    },
+    {
+      "slide_id": "C3L-02350-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3L-02350-22.pth",
+      "survival_time": 1418.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00175-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-22.pth",
+      "survival_time": 308.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00175-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-21.pth",
+      "survival_time": 308.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00175-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-23.pth",
+      "survival_time": 308.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00175-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00175-24.pth",
+      "survival_time": 308.0,
+      "censorship": 0,
+      "label": 4
+    },
+    {
+      "slide_id": "C3N-00199-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00199-22.pth",
+      "survival_time": 1721.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00199-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00199-21.pth",
+      "survival_time": 1721.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00199-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00199-23.pth",
+      "survival_time": 1721.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-00217-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-22.pth",
+      "survival_time": 668.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00217-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-24.pth",
+      "survival_time": 668.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00217-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-21.pth",
+      "survival_time": 668.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00217-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00217-23.pth",
+      "survival_time": 668.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00552-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-22.pth",
+      "survival_time": 396.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00552-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-21.pth",
+      "survival_time": 396.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00552-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-23.pth",
+      "survival_time": 396.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00552-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00552-24.pth",
+      "survival_time": 396.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00572-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-24.pth",
+      "survival_time": 431.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00572-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-21.pth",
+      "survival_time": 431.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00572-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-22.pth",
+      "survival_time": 431.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00572-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00572-23.pth",
+      "survival_time": 431.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-00579-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-22.pth",
+      "survival_time": 477.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00579-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-21.pth",
+      "survival_time": 477.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00579-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-23.pth",
+      "survival_time": 477.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-00579-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-00579-24.pth",
+      "survival_time": 477.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01024-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-23.pth",
+      "survival_time": 419.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01024-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-21.pth",
+      "survival_time": 419.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01024-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-22.pth",
+      "survival_time": 419.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01024-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01024-24.pth",
+      "survival_time": 419.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01414-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-24.pth",
+      "survival_time": 820.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01414-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-21.pth",
+      "survival_time": 820.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01414-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-22.pth",
+      "survival_time": 820.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01414-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01414-23.pth",
+      "survival_time": 820.0,
+      "censorship": 1,
+      "label": 2
+    },
+    {
+      "slide_id": "C3N-01488-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-23.pth",
+      "survival_time": 409.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01488-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-21.pth",
+      "survival_time": 409.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01488-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-22.pth",
+      "survival_time": 409.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-01488-24",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-01488-24.pth",
+      "survival_time": 409.0,
+      "censorship": 1,
+      "label": 1
+    },
+    {
+      "slide_id": "C3N-02002-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02002-22.pth",
+      "survival_time": 355.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02002-23",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02002-23.pth",
+      "survival_time": 355.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02003-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02003-21.pth",
+      "survival_time": 353.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02003-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02003-22.pth",
+      "survival_time": 353.0,
+      "censorship": 1,
+      "label": 0
+    },
+    {
+      "slide_id": "C3N-02572-21",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02572-21.pth",
+      "survival_time": 1135.0,
+      "censorship": 1,
+      "label": 3
+    },
+    {
+      "slide_id": "C3N-02572-22",
+      "path": "Lung adenocarcinoma (LUAD)/20x_224px_0px_overlap/patch_features/<PFM_NAME>/C3N-02572-22.pth",
+      "survival_time": 1135.0,
+      "censorship": 1,
+      "label": 3
+    }
+  ]
+}

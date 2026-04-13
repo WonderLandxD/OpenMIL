@@ -1,0 +1,5172 @@
+{
+    "train": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18469.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18470.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18471.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18474.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18475.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18476.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18477.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18480.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18488.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18489.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18490.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18491.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18494.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18496.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18497.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18498.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18499.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18500.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18501.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18503.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18505.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18508.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18509.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18510.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18512.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18513.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18515.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18517.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18518.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18521.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18522.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18523.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18524.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18527.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18528.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18533.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18535.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18537.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18538.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18539.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18540.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18541.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18543.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18544.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18546.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18547.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18548.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18551.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18553.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18556.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18557.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18558.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18559.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18561.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18563.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18566.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18567.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18568.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18569.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18571.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18572.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18573.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18575.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18577.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18580.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18581.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18583.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18584.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18585.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18586.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18587.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18589.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18594.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18595.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18596.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18597.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18602.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18603.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18605.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18606.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18609.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18610.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18611.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18612.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18616.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18619.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18620.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18621.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18622.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18623.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18625.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18629.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18630.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18633.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18634.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18635.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18636.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18637.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18639.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18640.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18641.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18642.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18643.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18644.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18645.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18646.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18647.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18648.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18651.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18654.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18655.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18656.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18657.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18658.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18660.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18663.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18664.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18666.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18687.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18690.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18691.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18692.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18693.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18694.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18695.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18697.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18698.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18699.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18700.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18702.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18703.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18706.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18707.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18709.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18710.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18712.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18713.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18716.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18717.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18720.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18721.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18722.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18723.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18725.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18726.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18727.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18728.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18729.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18731.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18734.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18735.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18736.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18737.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18739.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18741.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18742.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18744.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18745.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18746.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18749.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18752.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18754.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18755.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18758.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18759.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18762.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18763.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18764.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18766.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18768.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18769.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18773.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18774.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18775.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18776.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18779.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18780.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18781.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18782.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18786.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18787.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18789.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18791.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18794.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18796.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18797.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18798.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18800.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18801.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18802.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18803.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18805.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18868.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18869.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18870.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18871.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18873.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18874.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18875.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18877.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18878.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18881.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18882.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18883.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18884.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18888.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18890.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18891.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18892.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18893.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18896.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18897.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18898.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18899.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18902.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18903.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18904.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18905.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18907.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18909.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18910.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18913.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18914.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18915.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18917.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18919.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18922.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18924.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18925.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18926.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18927.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18928.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18931.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18932.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18933.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18935.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18936.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18937.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18938.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18939.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18940.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18941.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18942.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18944.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18945.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18947.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19070.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19071.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19072.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19073.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19074.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19075.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19076.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19081.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19082.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19083.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19085.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19088.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19089.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19091.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19096.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19097.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19098.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19099.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19103.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19104.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19105.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19109.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19112.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19115.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19116.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19118.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19119.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19120.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19121.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19123.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19124.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19125.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19126.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19127.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19130.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19131.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19132.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19133.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19134.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19135.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19137.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19139.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19141.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19142.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19143.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19144.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19145.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19146.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19147.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19148.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19149.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19150.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19151.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19153.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19155.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19157.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19160.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19161.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19162.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19165.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19166.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19167.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19169.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19172.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19174.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19177.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19178.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19180.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19181.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19182.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19183.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19184.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19187.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19188.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19190.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19191.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19192.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19194.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19195.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19198.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19199.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19201.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19204.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19205.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19210.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19211.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19213.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19214.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19215.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19217.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19218.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19220.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19222.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19223.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19224.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19227.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19228.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19229.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19230.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19231.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19233.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19234.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19235.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19236.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19237.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19240.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19242.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19244.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19247.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19250.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19251.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19252.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19256.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19258.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19259.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19260.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19261.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19263.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19267.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19270.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19272.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19274.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19275.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19277.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19279.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19280.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19281.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19282.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19289.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19291.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19292.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19293.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19295.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19296.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19297.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19300.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19301.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19302.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19310.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19311.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19316.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19317.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19318.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19319.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19320.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19322.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19324.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19326.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19327.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19329.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19331.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19332.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19333.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19334.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19335.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19337.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19339.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19340.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19341.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19342.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19343.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19348.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19350.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19351.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19352.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19353.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19356.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19358.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19359.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19363.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19366.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19367.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19369.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19371.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19374.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19376.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19378.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19379.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19380.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19385.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19387.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19389.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19391.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19392.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19395.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19396.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19397.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19398.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19400.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19404.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19408.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19410.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19411.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19412.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19413.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19414.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19415.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19417.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19419.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19422.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19424.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19425.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19427.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19428.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19429.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19430.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19431.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19432.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19433.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19434.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19435.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19437.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19438.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19439.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19440.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19441.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19443.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19446.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19447.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19449.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19451.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19452.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19453.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19454.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19456.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19458.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19460.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19461.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19466.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19467.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19469.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19470.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19472.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19473.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19474.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19479.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19480.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19481.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19485.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19486.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19487.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19488.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19491.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19492.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19494.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19495.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19496.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19497.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19499.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19500.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19501.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19502.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19503.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19504.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19505.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19507.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19508.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19509.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19510.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19511.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19512.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19513.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19514.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19520.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19521.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19522.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19525.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19526.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19527.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19528.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19529.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19530.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19531.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19533.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19534.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19536.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19537.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19538.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19539.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19540.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19541.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19542.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19544.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19545.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19549.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19551.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19552.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19554.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19555.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19556.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19557.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19558.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19559.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19562.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19563.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19564.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19565.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19566.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19568.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19569.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19570.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19572.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19574.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19576.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19579.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19580.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19581.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19582.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19584.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19587.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19588.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19591.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19592.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19594.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19595.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19596.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19597.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19598.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19600.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19601.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19603.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19604.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19606.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19609.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19610.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19611.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19614.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19617.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19619.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19620.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19622.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19623.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19625.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19626.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19628.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19629.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19631.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19632.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19633.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19634.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19635.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19637.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19638.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19639.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19642.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19644.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19645.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19647.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19651.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19652.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19656.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19657.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19659.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19662.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19666.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19667.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19669.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19670.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19671.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19672.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19674.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19675.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19677.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19678.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19679.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19680.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19681.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19682.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19683.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19684.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19685.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19686.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19687.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19688.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19689.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19694.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19697.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19698.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19699.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19700.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19703.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19704.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19705.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19708.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19709.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19710.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19711.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19712.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19717.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19719.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19720.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19723.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19724.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19725.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19726.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19729.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19732.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19734.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19735.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19736.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19737.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19738.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19740.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19744.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19746.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19748.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19749.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19750.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19751.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19752.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19753.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19756.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19757.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19758.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19759.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19761.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19764.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19765.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19767.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19808.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19809.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19810.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19812.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19813.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19814.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19816.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19817.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19819.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19824.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19825.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19826.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19827.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19828.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19829.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19830.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19831.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19832.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19833.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19834.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19835.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19836.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19837.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19838.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19841.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19842.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19845.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19846.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19850.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19852.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19853.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19854.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19856.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19857.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19858.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19860.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19864.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19866.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19867.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19868.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20133.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20134.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20135.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20136.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20139.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20141.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20142.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20145.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20146.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20148.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20149.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20151.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20155.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20158.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20159.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20160.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20161.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20162.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20164.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20165.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20167.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20168.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20169.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20170.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20173.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20174.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20177.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20178.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20179.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20180.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20181.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20182.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20183.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20186.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20187.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20188.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20191.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20192.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20194.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20195.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20196.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20198.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20200.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20203.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20205.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20206.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20208.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20210.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20211.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20214.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20215.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20217.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20218.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20219.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20220.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20221.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20222.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20223.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20224.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20225.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20226.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20227.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20228.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20229.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20230.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20231.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20235.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20242.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20244.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20246.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20247.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20248.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20250.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20251.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20252.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20254.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20255.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20256.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20258.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20259.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20261.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20262.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20266.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20269.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20270.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20272.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20274.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20276.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20277.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20279.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20282.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20283.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20284.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20285.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20286.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20287.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20289.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20290.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20292.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20293.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20294.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20296.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20297.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20300.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20303.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20304.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20305.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20307.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20308.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20310.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20311.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20318.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20320.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20322.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20323.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20324.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20327.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20328.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20330.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20331.pth",
+            "label": "mutant"
+        }
+    ],
+    "val": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18467.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18473.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18478.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18487.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18502.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18507.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18519.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18530.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18531.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18532.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18542.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18549.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18555.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18562.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18564.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18570.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18582.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18588.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18593.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18604.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18613.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18627.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18653.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18661.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18665.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18686.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18688.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18689.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18704.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18705.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18718.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18724.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18733.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18748.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18771.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18777.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18778.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18783.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18785.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18795.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18804.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18806.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18872.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18887.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18894.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18895.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18900.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18901.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18906.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18912.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18920.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18921.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18929.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18930.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18943.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19065.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19068.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19078.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19080.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19084.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19087.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19095.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19102.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19114.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19129.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19136.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19140.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19158.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19164.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19170.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19176.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19186.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19189.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19196.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19197.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19206.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19209.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19219.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19225.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19226.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19246.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19248.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19249.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19254.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19255.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19257.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19266.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19276.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19284.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19286.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19290.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19298.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19306.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19313.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19314.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19315.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19325.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19330.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19336.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19338.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19345.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19347.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19354.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19355.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19370.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19372.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19373.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19382.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19384.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19388.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19393.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19394.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19399.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19402.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19405.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19407.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19409.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19420.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19421.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19423.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19445.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19482.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19483.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19490.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19498.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19506.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19516.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19532.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19535.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19543.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19546.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19547.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19550.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19553.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19567.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19571.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19577.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19589.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19593.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19602.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19613.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19616.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19621.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19643.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19646.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19649.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19653.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19654.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19658.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19663.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19668.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19673.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19692.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19695.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19696.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19701.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19706.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19716.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19718.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19727.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19728.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19733.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19742.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19745.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19755.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19762.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19766.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19768.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19807.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19815.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19844.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19848.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19849.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19855.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19862.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20137.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20143.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20144.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20150.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20153.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20166.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20171.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20176.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20184.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20189.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20190.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20209.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20212.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20236.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20239.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20240.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20260.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20264.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20271.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20273.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20275.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20280.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20288.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20291.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20295.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20301.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20313.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20314.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20315.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20321.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20325.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20329.pth",
+            "label": "mutant"
+        }
+    ],
+    "test": [
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18468.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18472.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18479.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18481.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18482.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18483.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18484.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18485.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18486.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18492.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18493.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18495.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18504.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18506.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18511.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18514.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18516.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18520.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18526.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18529.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18534.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18536.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18545.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18550.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18552.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18554.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18560.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18565.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18574.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18578.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18579.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18590.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18591.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18592.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18598.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18607.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18608.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18614.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18615.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18617.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18618.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18624.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18626.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18628.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18631.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18632.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18638.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18652.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18659.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18662.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18696.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18701.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18708.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18714.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18715.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18730.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18732.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18738.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18740.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18743.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18747.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18750.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18751.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18756.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18757.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18760.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18761.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18765.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18772.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18784.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18788.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18790.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18792.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18793.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18799.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18876.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18879.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18880.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18908.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18911.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18916.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18918.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18923.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18934.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/18946.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19064.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19069.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19079.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19086.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19090.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19092.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19094.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19100.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19101.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19106.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19108.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19110.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19111.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19113.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19117.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19122.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19128.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19152.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19154.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19159.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19163.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19168.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19171.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19173.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19175.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19179.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19185.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19193.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19203.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19208.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19212.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19216.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19232.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19238.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19239.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19241.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19243.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19245.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19269.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19271.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19273.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19278.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19283.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19285.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19287.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19288.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19294.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19303.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19304.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19305.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19307.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19308.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19309.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19323.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19344.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19346.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19349.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19357.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19360.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19361.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19362.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19364.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19365.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19375.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19377.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19381.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19383.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19386.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19390.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19401.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19403.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19406.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19416.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19418.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19426.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19436.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19442.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19444.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19448.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19450.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19455.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19459.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19462.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19463.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19468.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19475.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19476.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19478.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19484.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19493.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19518.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19519.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19523.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19524.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19548.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19560.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19561.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19573.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19578.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19583.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19585.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19590.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19599.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19605.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19607.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19608.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19615.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19618.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19624.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19627.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19630.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19636.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19640.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19655.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19660.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19661.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19676.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19690.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19691.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19693.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19702.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19707.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19714.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19715.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19739.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19741.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19747.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19760.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19763.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19818.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19821.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19823.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19843.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19847.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19851.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19859.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/19865.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20138.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20140.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20147.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20152.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20156.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20157.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20163.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20172.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20185.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20193.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20197.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20199.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20201.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20202.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20204.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20207.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20213.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20216.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20232.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20233.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20234.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20237.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20241.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20243.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20245.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20249.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20268.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20278.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20281.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20298.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20299.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20306.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20312.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20316.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20317.pth",
+            "label": "mutant"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20326.pth",
+            "label": "wildtype"
+        },
+        {
+            "path": "20x_224px_0px_overlap/patch_features/<PFM_NAME>/20332.pth",
+            "label": "mutant"
+        }
+    ]
+}
