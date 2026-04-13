@@ -1,6 +1,13 @@
-# MIL Bench
+# OpenMIL
 
-This repo provides multiple slide-level models for whole-slide image (WSI) analysis, including classic MIL architectures and pre-trained slide encoders that operate on patch features.
+This repo provides:
+
+- Open available slide-level models for whole-slide image (WSI) analysis, including classic MIL architectures and pre-trained slide encoders that operate on patch features. 
+
+- Open available dataset for WSI analysis, including classification and survival prediction datasets.
+
+- Easy-to-use benchmark scripts for downstream tasks (classification and survival prediction)
+
 
 ## Models
 
