@@ -4,9 +4,9 @@ This repo provides:
 
 - Open available slide-level models for whole-slide image (WSI) analysis, including classic MIL architectures and pre-trained slide encoders that operate on patch features. 
 
-- Open available dataset for WSI analysis, including classification and survival prediction datasets.
+- Open available dataset `.json` lists for WSI analysis, including classification and survival prediction datasets. You can find the lists in `downstream_task_jsons/` and `surv_downstream_task_jsons/`.
 
-- Easy-to-use benchmark scripts for downstream tasks (classification and survival prediction)
+- Easy-to-use benchmark scripts for downstream tasks (classification and survival prediction).
 
 
 ## Models
