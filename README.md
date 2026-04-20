@@ -135,14 +135,4 @@ For these pre-trained slide encoders, the required patch encoder is fixed (do no
 - **feather_conch_v1_5**: `conch_v1_5`
 - **tangle_v2**: `uni_v1`
 
-### TANGLEv2 weights
-
-`tangle_v2` expects a checkpoint at:
-
-- `slide_encoder_models/tangle_v2/tangle_v2_config/model.pt`
-
-and a config at:
-
-- `slide_encoder_models/tangle_v2/tangle_v2_config/config.json`
-
 *Jiawen Li, <jw-li24@mails.tsinghua.edu.cn>*
