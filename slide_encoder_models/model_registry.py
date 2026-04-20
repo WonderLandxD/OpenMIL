@@ -20,7 +20,7 @@ from .madeleine.madeleine import MADELEINEModel
 from .prism.prism import PRISMModel
 from .titan.titan import TITANModel
 from .care.care import CAREModel
-from .tangle_v2.tange_v2 import TANGLE_V2_Model
+from .tangle_v2.tangle_v2 import TANGLE_V2_Model
 
 # Import other models if they exist
 try:
