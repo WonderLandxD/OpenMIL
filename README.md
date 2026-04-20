@@ -30,9 +30,11 @@ This repo provides:
 - gigapath
 - madeleine
 - chief
+- care
 - feather_uni_v1
 - feather_uni_v2
 - feather_conch_v1_5
+- tangle_v2
 
 ## Usage
 
@@ -84,5 +86,63 @@ Metrics are written under `results/` following the script arguments (dataset / p
 - For fold tasks: `results/<dataset>/<task>/fold<k>/<pfm_name>/<slide_name>/<seed>/benchmark/all_test_metrics.json`
 
 ---
+
+## Benchmark (pre-trained slide encoders)
+
+This repo also provides lightweight benchmarks for **pre-trained slide encoders** (WSI encoders) that take **patch features** as input.
+
+### KNN benchmark
+
+Script: `knn_benchmark.py` + `run_knn_benchmark.sh`
+
+- **Input**: `*.pth` patch-feature files referenced by `downstream_task_jsons/*.json` (with `<PFM_NAME>` placeholder in the path).
+- **Model**: `--slide-encoder` (pre-trained slide encoders only).
+- **Output**: `knn_results/<pfm_name>/<dataset>/<slide_encoder>/k{k}_{metric}/`
+
+Run:
+
+```bash
+# 1) Edit DATA_ROOT in the script
+bash run_knn_benchmark.sh
+```
+
+### Linear probe benchmark
+
+Script: `linear_probe_benchmark.py` + `run_linear_benchmark.sh`
+
+- **Protocol**: StratifiedKFold on train split; early-stop on val balanced-acc; evaluate on held-out test.
+- **Output**: `linear_probe_results/<pfm_name>/<dataset>/<slide_encoder>/lp_f{num_folds}_pat{patience}/`
+
+Run:
+
+```bash
+# 1) Edit DATA_ROOT in the script
+bash run_linear_benchmark.sh
+```
+
+### Patch encoder is fixed for each slide encoder
+
+For these pre-trained slide encoders, the required patch encoder is fixed (do not mix), and the benchmark scripts enforce this mapping:
+
+- **titan**: `conch_v1_5`
+- **care**: `conch_v1_5`
+- **madeleine**: `conch_v1`
+- **chief**: `ctranspath`
+- **prism**: `virchow_1`
+- **gigapath**: `prov_gigapath`
+- **feather_uni_v1**: `uni_v1`
+- **feather_uni_v2**: `uni_v2`
+- **feather_conch_v1_5**: `conch_v1_5`
+- **tangle_v2**: `uni_v1`
+
+### TANGLEv2 weights
+
+`tangle_v2` expects a checkpoint at:
+
+- `slide_encoder_models/tangle_v2/tangle_v2_config/model.pt`
+
+and a config at:
+
+- `slide_encoder_models/tangle_v2/tangle_v2_config/config.json`
 
 *Jiawen Li, <jw-li24@mails.tsinghua.edu.cn>*
