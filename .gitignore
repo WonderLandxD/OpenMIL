@@ -25,7 +25,7 @@ wandb/
 
 # Large artifacts (do not commit)
 **/patch_features/
-**/*.pth
-**/*.pt
+# **/*.pth
+# **/*.pt
 **/*.ckpt
 **/*.safetensors

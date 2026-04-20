@@ -19,6 +19,8 @@ from .gigapath.gigapath_model import GigaPath_Model
 from .madeleine.madeleine import MADELEINEModel
 from .prism.prism import PRISMModel
 from .titan.titan import TITANModel
+from .care.care import CAREModel
+from .tangle_v2.tange_v2 import TANGLE_V2_Model
 
 # Import other models if they exist
 try:
@@ -107,6 +109,16 @@ MODEL_DEFAULTS: Dict[str, Dict[str, Any]] = {
     "chief": {
         "num_classes": 2,
     },
+    "care": {
+        "num_classes": 2,
+        "model_name": "Zipper-1/CARE",
+        "local_files_only": True,
+    },
+    "tangle_v2": {
+        "num_classes": 2,
+        "pretrained_dir": None,
+        "config_path": None,
+    },
     "feather_uni_v1": {
         "model_id": "MahmoodLab/abmil.base.uni.pc108-24k",
         "num_classes": 0,
@@ -186,6 +198,8 @@ MODEL_REGISTRY: Dict[str, Callable[..., nn.Module]] = {
     "feather_uni_v1": lambda **kwargs: FEATHER_UNIV1_Model(**_merge_defaults("feather_uni_v1", **kwargs)),
     "feather_uni_v2": lambda **kwargs: FEATHER_UNIV2_Model(**_merge_defaults("feather_uni_v2", **kwargs)),
     "feather_conch_v1_5": lambda **kwargs: FEATHER_CONCH_V1_5_Model(**_merge_defaults("feather_conch_v1_5", **kwargs)),
+    "care": lambda **kwargs: CAREModel(**_merge_defaults("care", **kwargs)),
+    "tangle_v2": lambda **kwargs: TANGLE_V2_Model(**_merge_defaults("tangle_v2", **kwargs)),
 }
 
 
