@@ -35,6 +35,7 @@ This repo provides:
 - feather_uni_v2
 - feather_conch_v1_5
 - tangle_v2
+- ticon
 
 ## Usage
 
@@ -134,5 +135,6 @@ For these pre-trained slide encoders, the required patch encoder is fixed (do no
 - **feather_uni_v2**: `uni_v2`
 - **feather_conch_v1_5**: `conch_v1_5`
 - **tangle_v2**: `uni_v1`
+- **ticon**: `conchv15` by default (`tile_encoder_key` also supports `hoptimus1`, `uni2h`, `gigapath`, `virchow2`)
 
 *Jiawen Li, <jw-li24@mails.tsinghua.edu.cn>*

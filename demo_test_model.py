@@ -26,13 +26,16 @@ FEAT_DIMS = {
     "gigapath": 1536,
     "madeleine": 512,
     "chief": 768,
+    "care": 768,
+    "tangle_v2": 1024,
     "feather_uni_v1": 1024,
     "feather_uni_v2": 1536,
     "feather_conch_v1_5": 768,
+    "ticon": 1536,
 }
 
-NEED_COORDS = {"2dmamba", "titan", "gigapath"}
-NEED_PATCH_SIZE = {"titan"}
+NEED_COORDS = {"2dmamba", "titan", "gigapath", "care", "ticon"}
+NEED_PATCH_SIZE = {"titan", "care", "ticon"}
 
 
 def make_coords(n_patches: int, patch_size: int, dtype: torch.dtype, device: str):

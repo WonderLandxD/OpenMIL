@@ -21,6 +21,7 @@ from .prism.prism import PRISMModel
 from .titan.titan import TITANModel
 from .care.care import CAREModel
 from .tangle_v2.tangle_v2 import TANGLE_V2_Model
+from .ticon.ticon import TICONModel
 
 # Import other models if they exist
 try:
@@ -119,6 +120,13 @@ MODEL_DEFAULTS: Dict[str, Dict[str, Any]] = {
         "pretrained_dir": None,
         "config_path": None,
     },
+    "ticon": {
+        "num_classes": 2,
+        "tile_encoder_key": "conchv15",
+        "checkpoint_path": None,
+        "cache_dir": None,
+        "pretrained": True,
+    },
     "feather_uni_v1": {
         "model_id": "MahmoodLab/abmil.base.uni.pc108-24k",
         "num_classes": 0,
@@ -200,6 +208,7 @@ MODEL_REGISTRY: Dict[str, Callable[..., nn.Module]] = {
     "feather_conch_v1_5": lambda **kwargs: FEATHER_CONCH_V1_5_Model(**_merge_defaults("feather_conch_v1_5", **kwargs)),
     "care": lambda **kwargs: CAREModel(**_merge_defaults("care", **kwargs)),
     "tangle_v2": lambda **kwargs: TANGLE_V2_Model(**_merge_defaults("tangle_v2", **kwargs)),
+    "ticon": lambda **kwargs: TICONModel(**_merge_defaults("ticon", **kwargs)),
 }
 
 
@@ -215,7 +224,8 @@ def create_slide_encoder(name: str, **kwargs) -> nn.Module:
     Args:
         name: Name of the model (case-insensitive). Available models:
             - Basic MIL models: abmil, gated_abmil, transmil, amdmil, clam_sb, clam_mb, dsmil, 2dmamba
-            - Pre-trained models: titan, prism, gigapath, madeleine, chief, feather_uni_v1, feather_uni_v2, feather_conch_v1_5
+            - Pre-trained models: titan, prism, gigapath, madeleine, chief, care, tangle_v2, feather_uni_v1,
+              feather_uni_v2, feather_conch_v1_5, ticon
         **kwargs: Additional arguments passed to the model constructor.
             Common arguments:
             - num_classes: Number of output classes (default: 2, set to 0 for feature extraction only)

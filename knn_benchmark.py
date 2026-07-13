@@ -31,6 +31,7 @@ PRETRAINED_SLIDE_ENCODERS = (
     "chief",
     "care",
     "tangle_v2",
+    "ticon",
     "feather_uni_v1",
     "feather_uni_v2",
     "feather_conch_v1_5",

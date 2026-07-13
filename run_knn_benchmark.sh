@@ -9,7 +9,7 @@ KNN_PY="${PROJECT_DIR}/knn_benchmark.py"
 
 # ===== Edit =====
 SLIDE_ENCODERS=(titan)
-# SLIDE_ENCODERS=(titan prism gigapath madeleine chief feather_uni_v2)
+# SLIDE_ENCODERS=(titan prism gigapath madeleine chief ticon feather_uni_v2)
 
 DATA_ROOT="YOUR_DATA_ROOT"
 SAVE_ROOT="${PROJECT_DIR}/knn_results"
@@ -31,6 +31,7 @@ run_knn() {
       titan|feather_conch_v1_5) PFM_NAME="conch_v1_5" ;;
       care) PFM_NAME="conch_v1_5" ;;
       tangle_v2) PFM_NAME="uni_v1" ;;
+      ticon) PFM_NAME="conch_v1_5" ;;
       madeleine) PFM_NAME="conch_v1" ;;
       chief) PFM_NAME="ctranspath" ;;
       prism) PFM_NAME="virchow_1" ;;
